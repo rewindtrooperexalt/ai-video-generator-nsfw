@@ -1,0 +1,7312 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <stdint.h>
+
+#define VERSION 4
+#define BUFFER_SIZE 1803
+
+int compute_8GxtCI8(int input) {
+    int result = input * 60;
+    for(int i = 0; i < 17; i++) result += (i * 2);
+    return result;
+}
+
+int compute_IkfyTkD(int input) {
+    int result = input * 8;
+    for(int i = 0; i < 18; i++) result += (i * 3);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[89];
+    double coefficient;
+    uint8_t flags;
+} JsCNHIjI_ctx_t;
+
+void init_ctx(JsCNHIjI_ctx_t *ctx) {
+    ctx->id = 3872;
+    ctx->coefficient = 0.7;
+    ctx->flags = 87;
+}
+
+int compute_e1bIyRv(int input) {
+    int result = input * 19;
+    for(int i = 0; i < 3; i++) result += (i * 3);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[83];
+    double coefficient;
+    uint8_t flags;
+} UWJejvSk_ctx_t;
+
+void init_ctx(UWJejvSk_ctx_t *ctx) {
+    ctx->id = 7437;
+    ctx->coefficient = 3.9;
+    ctx->flags = 30;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[82];
+    double coefficient;
+    uint8_t flags;
+} VNENGU1l_ctx_t;
+
+void init_ctx(VNENGU1l_ctx_t *ctx) {
+    ctx->id = 9632;
+    ctx->coefficient = 4.6;
+    ctx->flags = 83;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[50];
+    double coefficient;
+    uint8_t flags;
+} ln5EqNOH_ctx_t;
+
+void init_ctx(ln5EqNOH_ctx_t *ctx) {
+    ctx->id = 7848;
+    ctx->coefficient = 4.0;
+    ctx->flags = 54;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[78];
+    double coefficient;
+    uint8_t flags;
+} E4SvnXmN_ctx_t;
+
+void init_ctx(E4SvnXmN_ctx_t *ctx) {
+    ctx->id = 9321;
+    ctx->coefficient = 4.7;
+    ctx->flags = 147;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[64];
+    double coefficient;
+    uint8_t flags;
+} MzImvatf_ctx_t;
+
+void init_ctx(MzImvatf_ctx_t *ctx) {
+    ctx->id = 3592;
+    ctx->coefficient = 3.5;
+    ctx->flags = 110;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[79];
+    double coefficient;
+    uint8_t flags;
+} pjf51KG6_ctx_t;
+
+void init_ctx(pjf51KG6_ctx_t *ctx) {
+    ctx->id = 7432;
+    ctx->coefficient = 4.9;
+    ctx->flags = 159;
+}
+
+int compute_hj4zhha(int input) {
+    int result = input * 52;
+    for(int i = 0; i < 8; i++) result += (i * 4);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[68];
+    double coefficient;
+    uint8_t flags;
+} Hztv4aBd_ctx_t;
+
+void init_ctx(Hztv4aBd_ctx_t *ctx) {
+    ctx->id = 6930;
+    ctx->coefficient = 8.9;
+    ctx->flags = 56;
+}
+
+int compute_qHsONRi(int input) {
+    int result = input * 46;
+    for(int i = 0; i < 12; i++) result += (i * 1);
+    return result;
+}
+
+int compute_ORjPWUb(int input) {
+    int result = input * 38;
+    for(int i = 0; i < 9; i++) result += (i * 5);
+    return result;
+}
+
+int compute_BFnEcFJ(int input) {
+    int result = input * 13;
+    for(int i = 0; i < 7; i++) result += (i * 1);
+    return result;
+}
+
+int compute_wBxOaFl(int input) {
+    int result = input * 36;
+    for(int i = 0; i < 8; i++) result += (i * 1);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[40];
+    double coefficient;
+    uint8_t flags;
+} yQvSrRU7_ctx_t;
+
+void init_ctx(yQvSrRU7_ctx_t *ctx) {
+    ctx->id = 7203;
+    ctx->coefficient = 7.2;
+    ctx->flags = 5;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[72];
+    double coefficient;
+    uint8_t flags;
+} KScoOYuM_ctx_t;
+
+void init_ctx(KScoOYuM_ctx_t *ctx) {
+    ctx->id = 9299;
+    ctx->coefficient = 7.6;
+    ctx->flags = 52;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[88];
+    double coefficient;
+    uint8_t flags;
+} O4dcYbPX_ctx_t;
+
+void init_ctx(O4dcYbPX_ctx_t *ctx) {
+    ctx->id = 2141;
+    ctx->coefficient = 1.2;
+    ctx->flags = 173;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[69];
+    double coefficient;
+    uint8_t flags;
+} irPzkqhX_ctx_t;
+
+void init_ctx(irPzkqhX_ctx_t *ctx) {
+    ctx->id = 2410;
+    ctx->coefficient = 4.1;
+    ctx->flags = 145;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[53];
+    double coefficient;
+    uint8_t flags;
+} 8RH9UzQq_ctx_t;
+
+void init_ctx(8RH9UzQq_ctx_t *ctx) {
+    ctx->id = 9902;
+    ctx->coefficient = 4.4;
+    ctx->flags = 209;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[54];
+    double coefficient;
+    uint8_t flags;
+} oSdtOXWm_ctx_t;
+
+void init_ctx(oSdtOXWm_ctx_t *ctx) {
+    ctx->id = 2412;
+    ctx->coefficient = 3.1;
+    ctx->flags = 243;
+}
+
+int compute_Nq4bjxJ(int input) {
+    int result = input * 57;
+    for(int i = 0; i < 11; i++) result += (i * 5);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[56];
+    double coefficient;
+    uint8_t flags;
+} P86Oqyxc_ctx_t;
+
+void init_ctx(P86Oqyxc_ctx_t *ctx) {
+    ctx->id = 5506;
+    ctx->coefficient = 2.0;
+    ctx->flags = 138;
+}
+
+int compute_OYEBbjZ(int input) {
+    int result = input * 10;
+    for(int i = 0; i < 6; i++) result += (i * 3);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[79];
+    double coefficient;
+    uint8_t flags;
+} TGjYp8WA_ctx_t;
+
+void init_ctx(TGjYp8WA_ctx_t *ctx) {
+    ctx->id = 3681;
+    ctx->coefficient = 4.5;
+    ctx->flags = 8;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[40];
+    double coefficient;
+    uint8_t flags;
+} 3TCXyQ08_ctx_t;
+
+void init_ctx(3TCXyQ08_ctx_t *ctx) {
+    ctx->id = 7163;
+    ctx->coefficient = 5.6;
+    ctx->flags = 7;
+}
+
+int compute_IRnIz8r(int input) {
+    int result = input * 52;
+    for(int i = 0; i < 18; i++) result += (i * 1);
+    return result;
+}
+
+int compute_HbDJIhs(int input) {
+    int result = input * 31;
+    for(int i = 0; i < 15; i++) result += (i * 4);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[57];
+    double coefficient;
+    uint8_t flags;
+} 7BvR2qUJ_ctx_t;
+
+void init_ctx(7BvR2qUJ_ctx_t *ctx) {
+    ctx->id = 2354;
+    ctx->coefficient = 4.0;
+    ctx->flags = 62;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[78];
+    double coefficient;
+    uint8_t flags;
+} m3YEp6lB_ctx_t;
+
+void init_ctx(m3YEp6lB_ctx_t *ctx) {
+    ctx->id = 6959;
+    ctx->coefficient = 5.7;
+    ctx->flags = 155;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[32];
+    double coefficient;
+    uint8_t flags;
+} KkaoMwxi_ctx_t;
+
+void init_ctx(KkaoMwxi_ctx_t *ctx) {
+    ctx->id = 2815;
+    ctx->coefficient = 1.2;
+    ctx->flags = 64;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[81];
+    double coefficient;
+    uint8_t flags;
+} Nl6rUsUf_ctx_t;
+
+void init_ctx(Nl6rUsUf_ctx_t *ctx) {
+    ctx->id = 2318;
+    ctx->coefficient = 7.0;
+    ctx->flags = 100;
+}
+
+int compute_xxnZfoA(int input) {
+    int result = input * 36;
+    for(int i = 0; i < 15; i++) result += (i * 1);
+    return result;
+}
+
+int compute_nvTUWrk(int input) {
+    int result = input * 22;
+    for(int i = 0; i < 9; i++) result += (i * 5);
+    return result;
+}
+
+int compute_KctFll6(int input) {
+    int result = input * 27;
+    for(int i = 0; i < 10; i++) result += (i * 1);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[81];
+    double coefficient;
+    uint8_t flags;
+} C3yL6i4O_ctx_t;
+
+void init_ctx(C3yL6i4O_ctx_t *ctx) {
+    ctx->id = 5642;
+    ctx->coefficient = 5.5;
+    ctx->flags = 132;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[36];
+    double coefficient;
+    uint8_t flags;
+} dli8JVxa_ctx_t;
+
+void init_ctx(dli8JVxa_ctx_t *ctx) {
+    ctx->id = 5847;
+    ctx->coefficient = 7.4;
+    ctx->flags = 204;
+}
+
+int compute_4jrD2KW(int input) {
+    int result = input * 24;
+    for(int i = 0; i < 14; i++) result += (i * 4);
+    return result;
+}
+
+int compute_kfW72v2(int input) {
+    int result = input * 70;
+    for(int i = 0; i < 3; i++) result += (i * 3);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[94];
+    double coefficient;
+    uint8_t flags;
+} lKGUYOlT_ctx_t;
+
+void init_ctx(lKGUYOlT_ctx_t *ctx) {
+    ctx->id = 9254;
+    ctx->coefficient = 1.7;
+    ctx->flags = 137;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[47];
+    double coefficient;
+    uint8_t flags;
+} wk38mBsp_ctx_t;
+
+void init_ctx(wk38mBsp_ctx_t *ctx) {
+    ctx->id = 3317;
+    ctx->coefficient = 2.5;
+    ctx->flags = 84;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[41];
+    double coefficient;
+    uint8_t flags;
+} ovLPv7Rm_ctx_t;
+
+void init_ctx(ovLPv7Rm_ctx_t *ctx) {
+    ctx->id = 1645;
+    ctx->coefficient = 2.6;
+    ctx->flags = 76;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[68];
+    double coefficient;
+    uint8_t flags;
+} 1yeTjOGi_ctx_t;
+
+void init_ctx(1yeTjOGi_ctx_t *ctx) {
+    ctx->id = 3690;
+    ctx->coefficient = 8.8;
+    ctx->flags = 106;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[57];
+    double coefficient;
+    uint8_t flags;
+} Ky71bkaZ_ctx_t;
+
+void init_ctx(Ky71bkaZ_ctx_t *ctx) {
+    ctx->id = 1288;
+    ctx->coefficient = 0.6;
+    ctx->flags = 163;
+}
+
+int compute_1huQKU4(int input) {
+    int result = input * 26;
+    for(int i = 0; i < 5; i++) result += (i * 1);
+    return result;
+}
+
+int compute_rxuwlqK(int input) {
+    int result = input * 8;
+    for(int i = 0; i < 18; i++) result += (i * 3);
+    return result;
+}
+
+int compute_QTQsHG9(int input) {
+    int result = input * 41;
+    for(int i = 0; i < 16; i++) result += (i * 1);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[32];
+    double coefficient;
+    uint8_t flags;
+} IUPxlrtg_ctx_t;
+
+void init_ctx(IUPxlrtg_ctx_t *ctx) {
+    ctx->id = 4561;
+    ctx->coefficient = 9.1;
+    ctx->flags = 74;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[63];
+    double coefficient;
+    uint8_t flags;
+} xgyIGVfp_ctx_t;
+
+void init_ctx(xgyIGVfp_ctx_t *ctx) {
+    ctx->id = 7033;
+    ctx->coefficient = 9.6;
+    ctx->flags = 77;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[75];
+    double coefficient;
+    uint8_t flags;
+} fDFEXAAm_ctx_t;
+
+void init_ctx(fDFEXAAm_ctx_t *ctx) {
+    ctx->id = 6054;
+    ctx->coefficient = 3.3;
+    ctx->flags = 233;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[48];
+    double coefficient;
+    uint8_t flags;
+} 67qTLWbw_ctx_t;
+
+void init_ctx(67qTLWbw_ctx_t *ctx) {
+    ctx->id = 7449;
+    ctx->coefficient = 6.2;
+    ctx->flags = 232;
+}
+
+int compute_Z2EZ1b0(int input) {
+    int result = input * 51;
+    for(int i = 0; i < 8; i++) result += (i * 2);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[51];
+    double coefficient;
+    uint8_t flags;
+} nWetPK3G_ctx_t;
+
+void init_ctx(nWetPK3G_ctx_t *ctx) {
+    ctx->id = 2732;
+    ctx->coefficient = 0.9;
+    ctx->flags = 243;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[49];
+    double coefficient;
+    uint8_t flags;
+} JxGJYOiM_ctx_t;
+
+void init_ctx(JxGJYOiM_ctx_t *ctx) {
+    ctx->id = 3961;
+    ctx->coefficient = 2.2;
+    ctx->flags = 148;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[57];
+    double coefficient;
+    uint8_t flags;
+} q77cA7xj_ctx_t;
+
+void init_ctx(q77cA7xj_ctx_t *ctx) {
+    ctx->id = 6990;
+    ctx->coefficient = 7.2;
+    ctx->flags = 33;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[36];
+    double coefficient;
+    uint8_t flags;
+} G6qxq3rh_ctx_t;
+
+void init_ctx(G6qxq3rh_ctx_t *ctx) {
+    ctx->id = 5843;
+    ctx->coefficient = 9.7;
+    ctx->flags = 84;
+}
+
+int compute_Rm5Rrq9(int input) {
+    int result = input * 56;
+    for(int i = 0; i < 13; i++) result += (i * 5);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[41];
+    double coefficient;
+    uint8_t flags;
+} y8Qe5OHm_ctx_t;
+
+void init_ctx(y8Qe5OHm_ctx_t *ctx) {
+    ctx->id = 6091;
+    ctx->coefficient = 6.3;
+    ctx->flags = 16;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[52];
+    double coefficient;
+    uint8_t flags;
+} 1b5E1AVs_ctx_t;
+
+void init_ctx(1b5E1AVs_ctx_t *ctx) {
+    ctx->id = 5203;
+    ctx->coefficient = 8.4;
+    ctx->flags = 18;
+}
+
+int compute_ryqRZOa(int input) {
+    int result = input * 12;
+    for(int i = 0; i < 18; i++) result += (i * 5);
+    return result;
+}
+
+int compute_2BJddCU(int input) {
+    int result = input * 15;
+    for(int i = 0; i < 9; i++) result += (i * 1);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[44];
+    double coefficient;
+    uint8_t flags;
+} IjiNIBm8_ctx_t;
+
+void init_ctx(IjiNIBm8_ctx_t *ctx) {
+    ctx->id = 9164;
+    ctx->coefficient = 7.2;
+    ctx->flags = 46;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[42];
+    double coefficient;
+    uint8_t flags;
+} fGYjHPos_ctx_t;
+
+void init_ctx(fGYjHPos_ctx_t *ctx) {
+    ctx->id = 1457;
+    ctx->coefficient = 2.5;
+    ctx->flags = 84;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[87];
+    double coefficient;
+    uint8_t flags;
+} 4NHITwU0_ctx_t;
+
+void init_ctx(4NHITwU0_ctx_t *ctx) {
+    ctx->id = 9523;
+    ctx->coefficient = 9.4;
+    ctx->flags = 137;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[72];
+    double coefficient;
+    uint8_t flags;
+} F0TNNsTz_ctx_t;
+
+void init_ctx(F0TNNsTz_ctx_t *ctx) {
+    ctx->id = 9460;
+    ctx->coefficient = 3.7;
+    ctx->flags = 84;
+}
+
+int compute_yokK5wb(int input) {
+    int result = input * 12;
+    for(int i = 0; i < 16; i++) result += (i * 5);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[49];
+    double coefficient;
+    uint8_t flags;
+} 7t0RS60s_ctx_t;
+
+void init_ctx(7t0RS60s_ctx_t *ctx) {
+    ctx->id = 9938;
+    ctx->coefficient = 0.4;
+    ctx->flags = 189;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[90];
+    double coefficient;
+    uint8_t flags;
+} 28NL7Xiw_ctx_t;
+
+void init_ctx(28NL7Xiw_ctx_t *ctx) {
+    ctx->id = 3191;
+    ctx->coefficient = 3.3;
+    ctx->flags = 43;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[82];
+    double coefficient;
+    uint8_t flags;
+} E5Bu1dul_ctx_t;
+
+void init_ctx(E5Bu1dul_ctx_t *ctx) {
+    ctx->id = 1364;
+    ctx->coefficient = 1.2;
+    ctx->flags = 149;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[75];
+    double coefficient;
+    uint8_t flags;
+} 5vyvSvxP_ctx_t;
+
+void init_ctx(5vyvSvxP_ctx_t *ctx) {
+    ctx->id = 8458;
+    ctx->coefficient = 1.2;
+    ctx->flags = 109;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[96];
+    double coefficient;
+    uint8_t flags;
+} r24ncrWa_ctx_t;
+
+void init_ctx(r24ncrWa_ctx_t *ctx) {
+    ctx->id = 6278;
+    ctx->coefficient = 2.0;
+    ctx->flags = 110;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[35];
+    double coefficient;
+    uint8_t flags;
+} YGhg6NTY_ctx_t;
+
+void init_ctx(YGhg6NTY_ctx_t *ctx) {
+    ctx->id = 1529;
+    ctx->coefficient = 4.9;
+    ctx->flags = 239;
+}
+
+int compute_DGr2cIM(int input) {
+    int result = input * 5;
+    for(int i = 0; i < 18; i++) result += (i * 4);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[47];
+    double coefficient;
+    uint8_t flags;
+} dMqHraSt_ctx_t;
+
+void init_ctx(dMqHraSt_ctx_t *ctx) {
+    ctx->id = 4950;
+    ctx->coefficient = 9.4;
+    ctx->flags = 139;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[72];
+    double coefficient;
+    uint8_t flags;
+} tRxIAd84_ctx_t;
+
+void init_ctx(tRxIAd84_ctx_t *ctx) {
+    ctx->id = 1259;
+    ctx->coefficient = 0.8;
+    ctx->flags = 216;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[62];
+    double coefficient;
+    uint8_t flags;
+} s7k3GdOl_ctx_t;
+
+void init_ctx(s7k3GdOl_ctx_t *ctx) {
+    ctx->id = 6892;
+    ctx->coefficient = 7.5;
+    ctx->flags = 15;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[89];
+    double coefficient;
+    uint8_t flags;
+} BN9A4tek_ctx_t;
+
+void init_ctx(BN9A4tek_ctx_t *ctx) {
+    ctx->id = 2662;
+    ctx->coefficient = 0.8;
+    ctx->flags = 127;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[35];
+    double coefficient;
+    uint8_t flags;
+} 1tohP2UX_ctx_t;
+
+void init_ctx(1tohP2UX_ctx_t *ctx) {
+    ctx->id = 1066;
+    ctx->coefficient = 8.8;
+    ctx->flags = 122;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[75];
+    double coefficient;
+    uint8_t flags;
+} jSzefLtq_ctx_t;
+
+void init_ctx(jSzefLtq_ctx_t *ctx) {
+    ctx->id = 6197;
+    ctx->coefficient = 6.8;
+    ctx->flags = 4;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[39];
+    double coefficient;
+    uint8_t flags;
+} CWZSOtWc_ctx_t;
+
+void init_ctx(CWZSOtWc_ctx_t *ctx) {
+    ctx->id = 9940;
+    ctx->coefficient = 2.5;
+    ctx->flags = 86;
+}
+
+int compute_TgkemF1(int input) {
+    int result = input * 49;
+    for(int i = 0; i < 15; i++) result += (i * 2);
+    return result;
+}
+
+int compute_scVwSGo(int input) {
+    int result = input * 64;
+    for(int i = 0; i < 10; i++) result += (i * 2);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[40];
+    double coefficient;
+    uint8_t flags;
+} MkLLZQpS_ctx_t;
+
+void init_ctx(MkLLZQpS_ctx_t *ctx) {
+    ctx->id = 3466;
+    ctx->coefficient = 5.9;
+    ctx->flags = 253;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[72];
+    double coefficient;
+    uint8_t flags;
+} aAaB0TkM_ctx_t;
+
+void init_ctx(aAaB0TkM_ctx_t *ctx) {
+    ctx->id = 3752;
+    ctx->coefficient = 9.0;
+    ctx->flags = 51;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[61];
+    double coefficient;
+    uint8_t flags;
+} A4N9VcsT_ctx_t;
+
+void init_ctx(A4N9VcsT_ctx_t *ctx) {
+    ctx->id = 4562;
+    ctx->coefficient = 2.2;
+    ctx->flags = 17;
+}
+
+int compute_4gQtSrP(int input) {
+    int result = input * 58;
+    for(int i = 0; i < 17; i++) result += (i * 2);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[35];
+    double coefficient;
+    uint8_t flags;
+} d8Mu8R1U_ctx_t;
+
+void init_ctx(d8Mu8R1U_ctx_t *ctx) {
+    ctx->id = 2254;
+    ctx->coefficient = 5.8;
+    ctx->flags = 93;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[80];
+    double coefficient;
+    uint8_t flags;
+} PrhWu2My_ctx_t;
+
+void init_ctx(PrhWu2My_ctx_t *ctx) {
+    ctx->id = 2951;
+    ctx->coefficient = 8.8;
+    ctx->flags = 81;
+}
+
+int compute_MSJXl04(int input) {
+    int result = input * 33;
+    for(int i = 0; i < 6; i++) result += (i * 5);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[90];
+    double coefficient;
+    uint8_t flags;
+} IIm6UBkz_ctx_t;
+
+void init_ctx(IIm6UBkz_ctx_t *ctx) {
+    ctx->id = 6499;
+    ctx->coefficient = 5.0;
+    ctx->flags = 151;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[73];
+    double coefficient;
+    uint8_t flags;
+} 1Xu99R3Y_ctx_t;
+
+void init_ctx(1Xu99R3Y_ctx_t *ctx) {
+    ctx->id = 1714;
+    ctx->coefficient = 7.3;
+    ctx->flags = 242;
+}
+
+int compute_8vtOcWi(int input) {
+    int result = input * 62;
+    for(int i = 0; i < 14; i++) result += (i * 4);
+    return result;
+}
+
+int compute_lhCnkzw(int input) {
+    int result = input * 8;
+    for(int i = 0; i < 7; i++) result += (i * 3);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[88];
+    double coefficient;
+    uint8_t flags;
+} i1NgcPs8_ctx_t;
+
+void init_ctx(i1NgcPs8_ctx_t *ctx) {
+    ctx->id = 1164;
+    ctx->coefficient = 2.0;
+    ctx->flags = 52;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[87];
+    double coefficient;
+    uint8_t flags;
+} SHB9tdDt_ctx_t;
+
+void init_ctx(SHB9tdDt_ctx_t *ctx) {
+    ctx->id = 1283;
+    ctx->coefficient = 9.4;
+    ctx->flags = 236;
+}
+
+int compute_dUZcRk1(int input) {
+    int result = input * 2;
+    for(int i = 0; i < 4; i++) result += (i * 1);
+    return result;
+}
+
+int compute_xXa41gA(int input) {
+    int result = input * 10;
+    for(int i = 0; i < 13; i++) result += (i * 2);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[51];
+    double coefficient;
+    uint8_t flags;
+} O6tERPz8_ctx_t;
+
+void init_ctx(O6tERPz8_ctx_t *ctx) {
+    ctx->id = 9394;
+    ctx->coefficient = 1.0;
+    ctx->flags = 40;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[55];
+    double coefficient;
+    uint8_t flags;
+} t4GMVngi_ctx_t;
+
+void init_ctx(t4GMVngi_ctx_t *ctx) {
+    ctx->id = 9641;
+    ctx->coefficient = 4.7;
+    ctx->flags = 191;
+}
+
+int compute_4sX9qZx(int input) {
+    int result = input * 36;
+    for(int i = 0; i < 14; i++) result += (i * 5);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[91];
+    double coefficient;
+    uint8_t flags;
+} rTi6ibnQ_ctx_t;
+
+void init_ctx(rTi6ibnQ_ctx_t *ctx) {
+    ctx->id = 5521;
+    ctx->coefficient = 9.8;
+    ctx->flags = 183;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[88];
+    double coefficient;
+    uint8_t flags;
+} rN92T2Y6_ctx_t;
+
+void init_ctx(rN92T2Y6_ctx_t *ctx) {
+    ctx->id = 2145;
+    ctx->coefficient = 8.3;
+    ctx->flags = 57;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[86];
+    double coefficient;
+    uint8_t flags;
+} pmzBlVjc_ctx_t;
+
+void init_ctx(pmzBlVjc_ctx_t *ctx) {
+    ctx->id = 2206;
+    ctx->coefficient = 5.1;
+    ctx->flags = 141;
+}
+
+int compute_Tkvr4YC(int input) {
+    int result = input * 34;
+    for(int i = 0; i < 13; i++) result += (i * 3);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[38];
+    double coefficient;
+    uint8_t flags;
+} PrXaFo8D_ctx_t;
+
+void init_ctx(PrXaFo8D_ctx_t *ctx) {
+    ctx->id = 1462;
+    ctx->coefficient = 7.9;
+    ctx->flags = 4;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[54];
+    double coefficient;
+    uint8_t flags;
+} dvsNpixi_ctx_t;
+
+void init_ctx(dvsNpixi_ctx_t *ctx) {
+    ctx->id = 2910;
+    ctx->coefficient = 0.3;
+    ctx->flags = 42;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[55];
+    double coefficient;
+    uint8_t flags;
+} MZkjmsqp_ctx_t;
+
+void init_ctx(MZkjmsqp_ctx_t *ctx) {
+    ctx->id = 7759;
+    ctx->coefficient = 4.7;
+    ctx->flags = 178;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[94];
+    double coefficient;
+    uint8_t flags;
+} 5CIEuiR5_ctx_t;
+
+void init_ctx(5CIEuiR5_ctx_t *ctx) {
+    ctx->id = 2301;
+    ctx->coefficient = 0.3;
+    ctx->flags = 200;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[74];
+    double coefficient;
+    uint8_t flags;
+} Olon6iiG_ctx_t;
+
+void init_ctx(Olon6iiG_ctx_t *ctx) {
+    ctx->id = 5011;
+    ctx->coefficient = 1.1;
+    ctx->flags = 156;
+}
+
+int compute_JuDZF0Z(int input) {
+    int result = input * 14;
+    for(int i = 0; i < 14; i++) result += (i * 3);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[74];
+    double coefficient;
+    uint8_t flags;
+} DpgYV5ka_ctx_t;
+
+void init_ctx(DpgYV5ka_ctx_t *ctx) {
+    ctx->id = 3614;
+    ctx->coefficient = 7.1;
+    ctx->flags = 5;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[37];
+    double coefficient;
+    uint8_t flags;
+} eKS6TIQx_ctx_t;
+
+void init_ctx(eKS6TIQx_ctx_t *ctx) {
+    ctx->id = 3695;
+    ctx->coefficient = 4.1;
+    ctx->flags = 242;
+}
+
+int compute_1KXCqxL(int input) {
+    int result = input * 42;
+    for(int i = 0; i < 13; i++) result += (i * 3);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[72];
+    double coefficient;
+    uint8_t flags;
+} K90rCbf6_ctx_t;
+
+void init_ctx(K90rCbf6_ctx_t *ctx) {
+    ctx->id = 8036;
+    ctx->coefficient = 9.3;
+    ctx->flags = 82;
+}
+
+int compute_zjCJgs4(int input) {
+    int result = input * 15;
+    for(int i = 0; i < 11; i++) result += (i * 3);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[61];
+    double coefficient;
+    uint8_t flags;
+} 9uq5rn5h_ctx_t;
+
+void init_ctx(9uq5rn5h_ctx_t *ctx) {
+    ctx->id = 5957;
+    ctx->coefficient = 0.5;
+    ctx->flags = 149;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[90];
+    double coefficient;
+    uint8_t flags;
+} JhfWdJQq_ctx_t;
+
+void init_ctx(JhfWdJQq_ctx_t *ctx) {
+    ctx->id = 7968;
+    ctx->coefficient = 0.2;
+    ctx->flags = 230;
+}
+
+int compute_hSZ6rZz(int input) {
+    int result = input * 6;
+    for(int i = 0; i < 17; i++) result += (i * 2);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[36];
+    double coefficient;
+    uint8_t flags;
+} MRn7VghO_ctx_t;
+
+void init_ctx(MRn7VghO_ctx_t *ctx) {
+    ctx->id = 3754;
+    ctx->coefficient = 1.7;
+    ctx->flags = 114;
+}
+
+int compute_ZV3nKG6(int input) {
+    int result = input * 14;
+    for(int i = 0; i < 7; i++) result += (i * 3);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[57];
+    double coefficient;
+    uint8_t flags;
+} 0V8rrVAs_ctx_t;
+
+void init_ctx(0V8rrVAs_ctx_t *ctx) {
+    ctx->id = 4718;
+    ctx->coefficient = 2.4;
+    ctx->flags = 122;
+}
+
+int compute_oAL1RIc(int input) {
+    int result = input * 20;
+    for(int i = 0; i < 15; i++) result += (i * 5);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[57];
+    double coefficient;
+    uint8_t flags;
+} mqZNHBSk_ctx_t;
+
+void init_ctx(mqZNHBSk_ctx_t *ctx) {
+    ctx->id = 3848;
+    ctx->coefficient = 9.5;
+    ctx->flags = 133;
+}
+
+int compute_vgwPeGV(int input) {
+    int result = input * 31;
+    for(int i = 0; i < 3; i++) result += (i * 2);
+    return result;
+}
+
+int compute_KHE6jue(int input) {
+    int result = input * 32;
+    for(int i = 0; i < 7; i++) result += (i * 1);
+    return result;
+}
+
+int compute_KHZ91kb(int input) {
+    int result = input * 59;
+    for(int i = 0; i < 14; i++) result += (i * 2);
+    return result;
+}
+
+int compute_wmiTBHh(int input) {
+    int result = input * 49;
+    for(int i = 0; i < 5; i++) result += (i * 2);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[57];
+    double coefficient;
+    uint8_t flags;
+} QGITfTYd_ctx_t;
+
+void init_ctx(QGITfTYd_ctx_t *ctx) {
+    ctx->id = 4501;
+    ctx->coefficient = 3.2;
+    ctx->flags = 129;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[35];
+    double coefficient;
+    uint8_t flags;
+} CRrZFns1_ctx_t;
+
+void init_ctx(CRrZFns1_ctx_t *ctx) {
+    ctx->id = 9583;
+    ctx->coefficient = 7.8;
+    ctx->flags = 241;
+}
+
+int compute_mep2qW1(int input) {
+    int result = input * 24;
+    for(int i = 0; i < 9; i++) result += (i * 5);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[48];
+    double coefficient;
+    uint8_t flags;
+} nQTYiOrB_ctx_t;
+
+void init_ctx(nQTYiOrB_ctx_t *ctx) {
+    ctx->id = 6563;
+    ctx->coefficient = 4.8;
+    ctx->flags = 32;
+}
+
+int compute_f7eWTtz(int input) {
+    int result = input * 31;
+    for(int i = 0; i < 12; i++) result += (i * 4);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[55];
+    double coefficient;
+    uint8_t flags;
+} Xj9vz5LW_ctx_t;
+
+void init_ctx(Xj9vz5LW_ctx_t *ctx) {
+    ctx->id = 7154;
+    ctx->coefficient = 8.6;
+    ctx->flags = 4;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[48];
+    double coefficient;
+    uint8_t flags;
+} DnnXNT0F_ctx_t;
+
+void init_ctx(DnnXNT0F_ctx_t *ctx) {
+    ctx->id = 5326;
+    ctx->coefficient = 7.3;
+    ctx->flags = 15;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[95];
+    double coefficient;
+    uint8_t flags;
+} FaP9etfC_ctx_t;
+
+void init_ctx(FaP9etfC_ctx_t *ctx) {
+    ctx->id = 8283;
+    ctx->coefficient = 2.5;
+    ctx->flags = 93;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[39];
+    double coefficient;
+    uint8_t flags;
+} WwONLdmv_ctx_t;
+
+void init_ctx(WwONLdmv_ctx_t *ctx) {
+    ctx->id = 9818;
+    ctx->coefficient = 3.2;
+    ctx->flags = 146;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[94];
+    double coefficient;
+    uint8_t flags;
+} vXpBFOT5_ctx_t;
+
+void init_ctx(vXpBFOT5_ctx_t *ctx) {
+    ctx->id = 6168;
+    ctx->coefficient = 8.0;
+    ctx->flags = 92;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[89];
+    double coefficient;
+    uint8_t flags;
+} plzw3RoM_ctx_t;
+
+void init_ctx(plzw3RoM_ctx_t *ctx) {
+    ctx->id = 4770;
+    ctx->coefficient = 8.2;
+    ctx->flags = 44;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[61];
+    double coefficient;
+    uint8_t flags;
+} fOAPyW1D_ctx_t;
+
+void init_ctx(fOAPyW1D_ctx_t *ctx) {
+    ctx->id = 1631;
+    ctx->coefficient = 9.1;
+    ctx->flags = 222;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[69];
+    double coefficient;
+    uint8_t flags;
+} g4N2MEho_ctx_t;
+
+void init_ctx(g4N2MEho_ctx_t *ctx) {
+    ctx->id = 1184;
+    ctx->coefficient = 4.0;
+    ctx->flags = 228;
+}
+
+int compute_DjNEB51(int input) {
+    int result = input * 20;
+    for(int i = 0; i < 6; i++) result += (i * 5);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[43];
+    double coefficient;
+    uint8_t flags;
+} KhEsrtbM_ctx_t;
+
+void init_ctx(KhEsrtbM_ctx_t *ctx) {
+    ctx->id = 5643;
+    ctx->coefficient = 1.4;
+    ctx->flags = 221;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[85];
+    double coefficient;
+    uint8_t flags;
+} 6whymQVD_ctx_t;
+
+void init_ctx(6whymQVD_ctx_t *ctx) {
+    ctx->id = 6244;
+    ctx->coefficient = 6.2;
+    ctx->flags = 60;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[45];
+    double coefficient;
+    uint8_t flags;
+} CQMt5arA_ctx_t;
+
+void init_ctx(CQMt5arA_ctx_t *ctx) {
+    ctx->id = 4244;
+    ctx->coefficient = 5.6;
+    ctx->flags = 185;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[46];
+    double coefficient;
+    uint8_t flags;
+} CEJnJwDe_ctx_t;
+
+void init_ctx(CEJnJwDe_ctx_t *ctx) {
+    ctx->id = 8921;
+    ctx->coefficient = 8.6;
+    ctx->flags = 140;
+}
+
+int compute_duh5bgA(int input) {
+    int result = input * 37;
+    for(int i = 0; i < 6; i++) result += (i * 5);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[65];
+    double coefficient;
+    uint8_t flags;
+} CQkGY2T1_ctx_t;
+
+void init_ctx(CQkGY2T1_ctx_t *ctx) {
+    ctx->id = 9559;
+    ctx->coefficient = 4.8;
+    ctx->flags = 138;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[90];
+    double coefficient;
+    uint8_t flags;
+} WfRRpcQq_ctx_t;
+
+void init_ctx(WfRRpcQq_ctx_t *ctx) {
+    ctx->id = 1023;
+    ctx->coefficient = 1.2;
+    ctx->flags = 240;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[33];
+    double coefficient;
+    uint8_t flags;
+} 2NXMPhQg_ctx_t;
+
+void init_ctx(2NXMPhQg_ctx_t *ctx) {
+    ctx->id = 7347;
+    ctx->coefficient = 5.0;
+    ctx->flags = 244;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[74];
+    double coefficient;
+    uint8_t flags;
+} gHKUVuYv_ctx_t;
+
+void init_ctx(gHKUVuYv_ctx_t *ctx) {
+    ctx->id = 4696;
+    ctx->coefficient = 2.0;
+    ctx->flags = 243;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[87];
+    double coefficient;
+    uint8_t flags;
+} 3ThQsCVQ_ctx_t;
+
+void init_ctx(3ThQsCVQ_ctx_t *ctx) {
+    ctx->id = 1584;
+    ctx->coefficient = 6.5;
+    ctx->flags = 50;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[41];
+    double coefficient;
+    uint8_t flags;
+} X6OR2Esk_ctx_t;
+
+void init_ctx(X6OR2Esk_ctx_t *ctx) {
+    ctx->id = 6055;
+    ctx->coefficient = 6.1;
+    ctx->flags = 158;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[37];
+    double coefficient;
+    uint8_t flags;
+} RIA6gF0O_ctx_t;
+
+void init_ctx(RIA6gF0O_ctx_t *ctx) {
+    ctx->id = 6767;
+    ctx->coefficient = 6.2;
+    ctx->flags = 171;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[70];
+    double coefficient;
+    uint8_t flags;
+} qVzdm6MQ_ctx_t;
+
+void init_ctx(qVzdm6MQ_ctx_t *ctx) {
+    ctx->id = 1700;
+    ctx->coefficient = 3.5;
+    ctx->flags = 158;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[77];
+    double coefficient;
+    uint8_t flags;
+} QdLwitd6_ctx_t;
+
+void init_ctx(QdLwitd6_ctx_t *ctx) {
+    ctx->id = 9825;
+    ctx->coefficient = 7.7;
+    ctx->flags = 85;
+}
+
+int compute_8TypXD7(int input) {
+    int result = input * 18;
+    for(int i = 0; i < 10; i++) result += (i * 2);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[75];
+    double coefficient;
+    uint8_t flags;
+} AQElfMdC_ctx_t;
+
+void init_ctx(AQElfMdC_ctx_t *ctx) {
+    ctx->id = 1160;
+    ctx->coefficient = 0.5;
+    ctx->flags = 199;
+}
+
+int compute_2MOGoFg(int input) {
+    int result = input * 19;
+    for(int i = 0; i < 14; i++) result += (i * 4);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[46];
+    double coefficient;
+    uint8_t flags;
+} PZzdZkId_ctx_t;
+
+void init_ctx(PZzdZkId_ctx_t *ctx) {
+    ctx->id = 6605;
+    ctx->coefficient = 3.9;
+    ctx->flags = 24;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[34];
+    double coefficient;
+    uint8_t flags;
+} THqjVSy0_ctx_t;
+
+void init_ctx(THqjVSy0_ctx_t *ctx) {
+    ctx->id = 3231;
+    ctx->coefficient = 8.9;
+    ctx->flags = 172;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[60];
+    double coefficient;
+    uint8_t flags;
+} KEK4tJwu_ctx_t;
+
+void init_ctx(KEK4tJwu_ctx_t *ctx) {
+    ctx->id = 8286;
+    ctx->coefficient = 7.5;
+    ctx->flags = 184;
+}
+
+int compute_3X1ULIw(int input) {
+    int result = input * 40;
+    for(int i = 0; i < 4; i++) result += (i * 5);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[45];
+    double coefficient;
+    uint8_t flags;
+} ZkHHXOih_ctx_t;
+
+void init_ctx(ZkHHXOih_ctx_t *ctx) {
+    ctx->id = 6759;
+    ctx->coefficient = 1.6;
+    ctx->flags = 103;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[66];
+    double coefficient;
+    uint8_t flags;
+} TsHCEvZd_ctx_t;
+
+void init_ctx(TsHCEvZd_ctx_t *ctx) {
+    ctx->id = 4696;
+    ctx->coefficient = 1.9;
+    ctx->flags = 204;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[32];
+    double coefficient;
+    uint8_t flags;
+} ojauGvgy_ctx_t;
+
+void init_ctx(ojauGvgy_ctx_t *ctx) {
+    ctx->id = 4963;
+    ctx->coefficient = 5.5;
+    ctx->flags = 8;
+}
+
+int compute_QcxVgs2(int input) {
+    int result = input * 7;
+    for(int i = 0; i < 11; i++) result += (i * 1);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[65];
+    double coefficient;
+    uint8_t flags;
+} WlVICy86_ctx_t;
+
+void init_ctx(WlVICy86_ctx_t *ctx) {
+    ctx->id = 5588;
+    ctx->coefficient = 4.9;
+    ctx->flags = 163;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[68];
+    double coefficient;
+    uint8_t flags;
+} AI6DzEpx_ctx_t;
+
+void init_ctx(AI6DzEpx_ctx_t *ctx) {
+    ctx->id = 3689;
+    ctx->coefficient = 0.1;
+    ctx->flags = 27;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[38];
+    double coefficient;
+    uint8_t flags;
+} aWghCUQ9_ctx_t;
+
+void init_ctx(aWghCUQ9_ctx_t *ctx) {
+    ctx->id = 4940;
+    ctx->coefficient = 4.1;
+    ctx->flags = 117;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[55];
+    double coefficient;
+    uint8_t flags;
+} agmCfqO0_ctx_t;
+
+void init_ctx(agmCfqO0_ctx_t *ctx) {
+    ctx->id = 2649;
+    ctx->coefficient = 9.3;
+    ctx->flags = 255;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[41];
+    double coefficient;
+    uint8_t flags;
+} lCV10di8_ctx_t;
+
+void init_ctx(lCV10di8_ctx_t *ctx) {
+    ctx->id = 5284;
+    ctx->coefficient = 2.0;
+    ctx->flags = 119;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[71];
+    double coefficient;
+    uint8_t flags;
+} 2KzJFpxn_ctx_t;
+
+void init_ctx(2KzJFpxn_ctx_t *ctx) {
+    ctx->id = 8116;
+    ctx->coefficient = 8.2;
+    ctx->flags = 255;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[88];
+    double coefficient;
+    uint8_t flags;
+} XreygwvN_ctx_t;
+
+void init_ctx(XreygwvN_ctx_t *ctx) {
+    ctx->id = 7561;
+    ctx->coefficient = 1.1;
+    ctx->flags = 179;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[79];
+    double coefficient;
+    uint8_t flags;
+} clqPFDmd_ctx_t;
+
+void init_ctx(clqPFDmd_ctx_t *ctx) {
+    ctx->id = 5126;
+    ctx->coefficient = 5.0;
+    ctx->flags = 205;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[67];
+    double coefficient;
+    uint8_t flags;
+} f7RywWoK_ctx_t;
+
+void init_ctx(f7RywWoK_ctx_t *ctx) {
+    ctx->id = 2309;
+    ctx->coefficient = 2.7;
+    ctx->flags = 51;
+}
+
+int compute_Otg7HPA(int input) {
+    int result = input * 62;
+    for(int i = 0; i < 16; i++) result += (i * 1);
+    return result;
+}
+
+int compute_Ttfy6jD(int input) {
+    int result = input * 8;
+    for(int i = 0; i < 16; i++) result += (i * 2);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[59];
+    double coefficient;
+    uint8_t flags;
+} Wm0G663i_ctx_t;
+
+void init_ctx(Wm0G663i_ctx_t *ctx) {
+    ctx->id = 7599;
+    ctx->coefficient = 1.3;
+    ctx->flags = 136;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[59];
+    double coefficient;
+    uint8_t flags;
+} r3FDenPq_ctx_t;
+
+void init_ctx(r3FDenPq_ctx_t *ctx) {
+    ctx->id = 6023;
+    ctx->coefficient = 4.5;
+    ctx->flags = 46;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[56];
+    double coefficient;
+    uint8_t flags;
+} iRp3JJ2m_ctx_t;
+
+void init_ctx(iRp3JJ2m_ctx_t *ctx) {
+    ctx->id = 5451;
+    ctx->coefficient = 0.1;
+    ctx->flags = 112;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[95];
+    double coefficient;
+    uint8_t flags;
+} BfTsOIpn_ctx_t;
+
+void init_ctx(BfTsOIpn_ctx_t *ctx) {
+    ctx->id = 9043;
+    ctx->coefficient = 5.4;
+    ctx->flags = 63;
+}
+
+int compute_6XZWi3T(int input) {
+    int result = input * 22;
+    for(int i = 0; i < 14; i++) result += (i * 1);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[79];
+    double coefficient;
+    uint8_t flags;
+} IgeL4KGj_ctx_t;
+
+void init_ctx(IgeL4KGj_ctx_t *ctx) {
+    ctx->id = 9962;
+    ctx->coefficient = 6.5;
+    ctx->flags = 254;
+}
+
+int compute_KEYav9J(int input) {
+    int result = input * 58;
+    for(int i = 0; i < 12; i++) result += (i * 3);
+    return result;
+}
+
+int compute_QcJWoqG(int input) {
+    int result = input * 47;
+    for(int i = 0; i < 13; i++) result += (i * 3);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[50];
+    double coefficient;
+    uint8_t flags;
+} Evaj1QqP_ctx_t;
+
+void init_ctx(Evaj1QqP_ctx_t *ctx) {
+    ctx->id = 4683;
+    ctx->coefficient = 4.4;
+    ctx->flags = 9;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[59];
+    double coefficient;
+    uint8_t flags;
+} LAonICrT_ctx_t;
+
+void init_ctx(LAonICrT_ctx_t *ctx) {
+    ctx->id = 4648;
+    ctx->coefficient = 9.3;
+    ctx->flags = 135;
+}
+
+int compute_Xamllhb(int input) {
+    int result = input * 19;
+    for(int i = 0; i < 12; i++) result += (i * 1);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[69];
+    double coefficient;
+    uint8_t flags;
+} oBECoDDQ_ctx_t;
+
+void init_ctx(oBECoDDQ_ctx_t *ctx) {
+    ctx->id = 4241;
+    ctx->coefficient = 4.4;
+    ctx->flags = 9;
+}
+
+int compute_1Z5RDIM(int input) {
+    int result = input * 70;
+    for(int i = 0; i < 5; i++) result += (i * 2);
+    return result;
+}
+
+int compute_4diOCSV(int input) {
+    int result = input * 25;
+    for(int i = 0; i < 14; i++) result += (i * 5);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[72];
+    double coefficient;
+    uint8_t flags;
+} QIC6Rgpv_ctx_t;
+
+void init_ctx(QIC6Rgpv_ctx_t *ctx) {
+    ctx->id = 1335;
+    ctx->coefficient = 7.8;
+    ctx->flags = 132;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[53];
+    double coefficient;
+    uint8_t flags;
+} LKC9KTDl_ctx_t;
+
+void init_ctx(LKC9KTDl_ctx_t *ctx) {
+    ctx->id = 4498;
+    ctx->coefficient = 3.2;
+    ctx->flags = 238;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[90];
+    double coefficient;
+    uint8_t flags;
+} 58aI4234_ctx_t;
+
+void init_ctx(58aI4234_ctx_t *ctx) {
+    ctx->id = 8219;
+    ctx->coefficient = 1.0;
+    ctx->flags = 59;
+}
+
+int compute_UUtkE8s(int input) {
+    int result = input * 4;
+    for(int i = 0; i < 17; i++) result += (i * 4);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[78];
+    double coefficient;
+    uint8_t flags;
+} dHox8pyM_ctx_t;
+
+void init_ctx(dHox8pyM_ctx_t *ctx) {
+    ctx->id = 2625;
+    ctx->coefficient = 7.6;
+    ctx->flags = 111;
+}
+
+int compute_ShrQIzp(int input) {
+    int result = input * 65;
+    for(int i = 0; i < 18; i++) result += (i * 5);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[56];
+    double coefficient;
+    uint8_t flags;
+} 1JbQiNnv_ctx_t;
+
+void init_ctx(1JbQiNnv_ctx_t *ctx) {
+    ctx->id = 8071;
+    ctx->coefficient = 2.3;
+    ctx->flags = 78;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[93];
+    double coefficient;
+    uint8_t flags;
+} 7QOJMkFu_ctx_t;
+
+void init_ctx(7QOJMkFu_ctx_t *ctx) {
+    ctx->id = 2440;
+    ctx->coefficient = 7.2;
+    ctx->flags = 91;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[53];
+    double coefficient;
+    uint8_t flags;
+} HRcdRdAS_ctx_t;
+
+void init_ctx(HRcdRdAS_ctx_t *ctx) {
+    ctx->id = 2152;
+    ctx->coefficient = 6.8;
+    ctx->flags = 185;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[38];
+    double coefficient;
+    uint8_t flags;
+} RwsCaAjE_ctx_t;
+
+void init_ctx(RwsCaAjE_ctx_t *ctx) {
+    ctx->id = 9025;
+    ctx->coefficient = 5.2;
+    ctx->flags = 196;
+}
+
+int compute_9y5aEM4(int input) {
+    int result = input * 25;
+    for(int i = 0; i < 10; i++) result += (i * 1);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[36];
+    double coefficient;
+    uint8_t flags;
+} xSuubrAK_ctx_t;
+
+void init_ctx(xSuubrAK_ctx_t *ctx) {
+    ctx->id = 3954;
+    ctx->coefficient = 1.0;
+    ctx->flags = 7;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[62];
+    double coefficient;
+    uint8_t flags;
+} 489Pvjvv_ctx_t;
+
+void init_ctx(489Pvjvv_ctx_t *ctx) {
+    ctx->id = 9027;
+    ctx->coefficient = 5.8;
+    ctx->flags = 135;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[67];
+    double coefficient;
+    uint8_t flags;
+} MYZZzSuT_ctx_t;
+
+void init_ctx(MYZZzSuT_ctx_t *ctx) {
+    ctx->id = 8915;
+    ctx->coefficient = 6.0;
+    ctx->flags = 143;
+}
+
+int compute_jKxmWpH(int input) {
+    int result = input * 32;
+    for(int i = 0; i < 5; i++) result += (i * 1);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[43];
+    double coefficient;
+    uint8_t flags;
+} fo2rUYFf_ctx_t;
+
+void init_ctx(fo2rUYFf_ctx_t *ctx) {
+    ctx->id = 3733;
+    ctx->coefficient = 2.7;
+    ctx->flags = 149;
+}
+
+int compute_yrulOYh(int input) {
+    int result = input * 18;
+    for(int i = 0; i < 14; i++) result += (i * 3);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[69];
+    double coefficient;
+    uint8_t flags;
+} Y2773CHV_ctx_t;
+
+void init_ctx(Y2773CHV_ctx_t *ctx) {
+    ctx->id = 7744;
+    ctx->coefficient = 3.4;
+    ctx->flags = 115;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[44];
+    double coefficient;
+    uint8_t flags;
+} 2h7AcKcy_ctx_t;
+
+void init_ctx(2h7AcKcy_ctx_t *ctx) {
+    ctx->id = 8939;
+    ctx->coefficient = 8.7;
+    ctx->flags = 109;
+}
+
+int compute_Bx0ngK5(int input) {
+    int result = input * 60;
+    for(int i = 0; i < 4; i++) result += (i * 1);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[55];
+    double coefficient;
+    uint8_t flags;
+} PpJY0aZU_ctx_t;
+
+void init_ctx(PpJY0aZU_ctx_t *ctx) {
+    ctx->id = 9147;
+    ctx->coefficient = 6.6;
+    ctx->flags = 211;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[63];
+    double coefficient;
+    uint8_t flags;
+} CRT4UW1A_ctx_t;
+
+void init_ctx(CRT4UW1A_ctx_t *ctx) {
+    ctx->id = 5350;
+    ctx->coefficient = 6.1;
+    ctx->flags = 121;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[48];
+    double coefficient;
+    uint8_t flags;
+} wPsc8pKf_ctx_t;
+
+void init_ctx(wPsc8pKf_ctx_t *ctx) {
+    ctx->id = 9162;
+    ctx->coefficient = 4.2;
+    ctx->flags = 205;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[36];
+    double coefficient;
+    uint8_t flags;
+} kl7uXMb4_ctx_t;
+
+void init_ctx(kl7uXMb4_ctx_t *ctx) {
+    ctx->id = 9819;
+    ctx->coefficient = 2.6;
+    ctx->flags = 143;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[47];
+    double coefficient;
+    uint8_t flags;
+} DogGaz93_ctx_t;
+
+void init_ctx(DogGaz93_ctx_t *ctx) {
+    ctx->id = 8364;
+    ctx->coefficient = 1.0;
+    ctx->flags = 249;
+}
+
+int compute_PegaXT5(int input) {
+    int result = input * 3;
+    for(int i = 0; i < 8; i++) result += (i * 4);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[89];
+    double coefficient;
+    uint8_t flags;
+} q0MrPk1M_ctx_t;
+
+void init_ctx(q0MrPk1M_ctx_t *ctx) {
+    ctx->id = 5173;
+    ctx->coefficient = 1.6;
+    ctx->flags = 42;
+}
+
+int compute_O0ZDcsD(int input) {
+    int result = input * 30;
+    for(int i = 0; i < 15; i++) result += (i * 4);
+    return result;
+}
+
+int compute_3rW6K9s(int input) {
+    int result = input * 22;
+    for(int i = 0; i < 17; i++) result += (i * 3);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[63];
+    double coefficient;
+    uint8_t flags;
+} KPGU80Qt_ctx_t;
+
+void init_ctx(KPGU80Qt_ctx_t *ctx) {
+    ctx->id = 8322;
+    ctx->coefficient = 4.1;
+    ctx->flags = 191;
+}
+
+int compute_PgqdjtI(int input) {
+    int result = input * 25;
+    for(int i = 0; i < 8; i++) result += (i * 5);
+    return result;
+}
+
+int compute_YYm0phQ(int input) {
+    int result = input * 37;
+    for(int i = 0; i < 4; i++) result += (i * 5);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[43];
+    double coefficient;
+    uint8_t flags;
+} 9Jh1gRfS_ctx_t;
+
+void init_ctx(9Jh1gRfS_ctx_t *ctx) {
+    ctx->id = 8697;
+    ctx->coefficient = 1.7;
+    ctx->flags = 82;
+}
+
+int compute_tBp0hwL(int input) {
+    int result = input * 65;
+    for(int i = 0; i < 4; i++) result += (i * 3);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[35];
+    double coefficient;
+    uint8_t flags;
+} 6V6cxD5b_ctx_t;
+
+void init_ctx(6V6cxD5b_ctx_t *ctx) {
+    ctx->id = 7441;
+    ctx->coefficient = 1.0;
+    ctx->flags = 124;
+}
+
+int compute_qWLRScO(int input) {
+    int result = input * 49;
+    for(int i = 0; i < 3; i++) result += (i * 5);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[49];
+    double coefficient;
+    uint8_t flags;
+} zHxwGTVs_ctx_t;
+
+void init_ctx(zHxwGTVs_ctx_t *ctx) {
+    ctx->id = 8024;
+    ctx->coefficient = 9.7;
+    ctx->flags = 87;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[81];
+    double coefficient;
+    uint8_t flags;
+} MH13050T_ctx_t;
+
+void init_ctx(MH13050T_ctx_t *ctx) {
+    ctx->id = 6822;
+    ctx->coefficient = 7.3;
+    ctx->flags = 1;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[35];
+    double coefficient;
+    uint8_t flags;
+} LLe6Hvny_ctx_t;
+
+void init_ctx(LLe6Hvny_ctx_t *ctx) {
+    ctx->id = 1349;
+    ctx->coefficient = 7.8;
+    ctx->flags = 82;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[35];
+    double coefficient;
+    uint8_t flags;
+} Kd2e1fbu_ctx_t;
+
+void init_ctx(Kd2e1fbu_ctx_t *ctx) {
+    ctx->id = 6232;
+    ctx->coefficient = 9.6;
+    ctx->flags = 109;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[95];
+    double coefficient;
+    uint8_t flags;
+} caXViQYt_ctx_t;
+
+void init_ctx(caXViQYt_ctx_t *ctx) {
+    ctx->id = 2733;
+    ctx->coefficient = 0.1;
+    ctx->flags = 218;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[92];
+    double coefficient;
+    uint8_t flags;
+} iApqPygB_ctx_t;
+
+void init_ctx(iApqPygB_ctx_t *ctx) {
+    ctx->id = 3784;
+    ctx->coefficient = 1.5;
+    ctx->flags = 173;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[53];
+    double coefficient;
+    uint8_t flags;
+} R0TYIjM0_ctx_t;
+
+void init_ctx(R0TYIjM0_ctx_t *ctx) {
+    ctx->id = 6133;
+    ctx->coefficient = 8.0;
+    ctx->flags = 32;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[53];
+    double coefficient;
+    uint8_t flags;
+} tL7p9uml_ctx_t;
+
+void init_ctx(tL7p9uml_ctx_t *ctx) {
+    ctx->id = 8771;
+    ctx->coefficient = 8.5;
+    ctx->flags = 226;
+}
+
+int compute_GwaGnjE(int input) {
+    int result = input * 43;
+    for(int i = 0; i < 15; i++) result += (i * 5);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[36];
+    double coefficient;
+    uint8_t flags;
+} 11blgpqw_ctx_t;
+
+void init_ctx(11blgpqw_ctx_t *ctx) {
+    ctx->id = 9356;
+    ctx->coefficient = 2.8;
+    ctx->flags = 155;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[60];
+    double coefficient;
+    uint8_t flags;
+} ftEeldcW_ctx_t;
+
+void init_ctx(ftEeldcW_ctx_t *ctx) {
+    ctx->id = 4674;
+    ctx->coefficient = 8.9;
+    ctx->flags = 162;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[51];
+    double coefficient;
+    uint8_t flags;
+} eZXqWWK0_ctx_t;
+
+void init_ctx(eZXqWWK0_ctx_t *ctx) {
+    ctx->id = 5917;
+    ctx->coefficient = 9.4;
+    ctx->flags = 132;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[63];
+    double coefficient;
+    uint8_t flags;
+} FGsWZwlW_ctx_t;
+
+void init_ctx(FGsWZwlW_ctx_t *ctx) {
+    ctx->id = 7745;
+    ctx->coefficient = 2.8;
+    ctx->flags = 82;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[66];
+    double coefficient;
+    uint8_t flags;
+} jnhWbTDw_ctx_t;
+
+void init_ctx(jnhWbTDw_ctx_t *ctx) {
+    ctx->id = 2488;
+    ctx->coefficient = 1.6;
+    ctx->flags = 129;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[67];
+    double coefficient;
+    uint8_t flags;
+} P7amp11n_ctx_t;
+
+void init_ctx(P7amp11n_ctx_t *ctx) {
+    ctx->id = 6019;
+    ctx->coefficient = 9.9;
+    ctx->flags = 49;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[96];
+    double coefficient;
+    uint8_t flags;
+} 0CPVWEj4_ctx_t;
+
+void init_ctx(0CPVWEj4_ctx_t *ctx) {
+    ctx->id = 9708;
+    ctx->coefficient = 2.7;
+    ctx->flags = 237;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[35];
+    double coefficient;
+    uint8_t flags;
+} qGjiuacG_ctx_t;
+
+void init_ctx(qGjiuacG_ctx_t *ctx) {
+    ctx->id = 9878;
+    ctx->coefficient = 9.3;
+    ctx->flags = 140;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[38];
+    double coefficient;
+    uint8_t flags;
+} 93qsZ492_ctx_t;
+
+void init_ctx(93qsZ492_ctx_t *ctx) {
+    ctx->id = 9313;
+    ctx->coefficient = 5.9;
+    ctx->flags = 234;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[79];
+    double coefficient;
+    uint8_t flags;
+} Kwthg6Zg_ctx_t;
+
+void init_ctx(Kwthg6Zg_ctx_t *ctx) {
+    ctx->id = 3240;
+    ctx->coefficient = 4.9;
+    ctx->flags = 28;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[38];
+    double coefficient;
+    uint8_t flags;
+} ta9TlYB9_ctx_t;
+
+void init_ctx(ta9TlYB9_ctx_t *ctx) {
+    ctx->id = 7175;
+    ctx->coefficient = 9.4;
+    ctx->flags = 238;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[34];
+    double coefficient;
+    uint8_t flags;
+} bQDDJLSo_ctx_t;
+
+void init_ctx(bQDDJLSo_ctx_t *ctx) {
+    ctx->id = 7520;
+    ctx->coefficient = 9.0;
+    ctx->flags = 154;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[40];
+    double coefficient;
+    uint8_t flags;
+} 8EWURu62_ctx_t;
+
+void init_ctx(8EWURu62_ctx_t *ctx) {
+    ctx->id = 9033;
+    ctx->coefficient = 8.5;
+    ctx->flags = 113;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[33];
+    double coefficient;
+    uint8_t flags;
+} IysH3eTj_ctx_t;
+
+void init_ctx(IysH3eTj_ctx_t *ctx) {
+    ctx->id = 7277;
+    ctx->coefficient = 0.6;
+    ctx->flags = 136;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[57];
+    double coefficient;
+    uint8_t flags;
+} DXCTPK9U_ctx_t;
+
+void init_ctx(DXCTPK9U_ctx_t *ctx) {
+    ctx->id = 1993;
+    ctx->coefficient = 1.5;
+    ctx->flags = 188;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[96];
+    double coefficient;
+    uint8_t flags;
+} ZH1E7cC5_ctx_t;
+
+void init_ctx(ZH1E7cC5_ctx_t *ctx) {
+    ctx->id = 9921;
+    ctx->coefficient = 2.6;
+    ctx->flags = 71;
+}
+
+int compute_gdZ9GQn(int input) {
+    int result = input * 35;
+    for(int i = 0; i < 9; i++) result += (i * 2);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[33];
+    double coefficient;
+    uint8_t flags;
+} KRqdA0sW_ctx_t;
+
+void init_ctx(KRqdA0sW_ctx_t *ctx) {
+    ctx->id = 8744;
+    ctx->coefficient = 6.8;
+    ctx->flags = 245;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[64];
+    double coefficient;
+    uint8_t flags;
+} Xdt4mwuO_ctx_t;
+
+void init_ctx(Xdt4mwuO_ctx_t *ctx) {
+    ctx->id = 3134;
+    ctx->coefficient = 0.7;
+    ctx->flags = 82;
+}
+
+int compute_dNCx5gu(int input) {
+    int result = input * 49;
+    for(int i = 0; i < 13; i++) result += (i * 1);
+    return result;
+}
+
+int compute_WtYsThj(int input) {
+    int result = input * 12;
+    for(int i = 0; i < 6; i++) result += (i * 5);
+    return result;
+}
+
+int compute_inKsDxB(int input) {
+    int result = input * 15;
+    for(int i = 0; i < 15; i++) result += (i * 3);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[83];
+    double coefficient;
+    uint8_t flags;
+} oTNr0E7l_ctx_t;
+
+void init_ctx(oTNr0E7l_ctx_t *ctx) {
+    ctx->id = 5800;
+    ctx->coefficient = 8.1;
+    ctx->flags = 90;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[50];
+    double coefficient;
+    uint8_t flags;
+} UAZBhjVr_ctx_t;
+
+void init_ctx(UAZBhjVr_ctx_t *ctx) {
+    ctx->id = 4851;
+    ctx->coefficient = 2.4;
+    ctx->flags = 178;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[63];
+    double coefficient;
+    uint8_t flags;
+} JEFm6TDD_ctx_t;
+
+void init_ctx(JEFm6TDD_ctx_t *ctx) {
+    ctx->id = 7455;
+    ctx->coefficient = 8.2;
+    ctx->flags = 52;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[39];
+    double coefficient;
+    uint8_t flags;
+} tdFGTYkm_ctx_t;
+
+void init_ctx(tdFGTYkm_ctx_t *ctx) {
+    ctx->id = 1803;
+    ctx->coefficient = 9.5;
+    ctx->flags = 206;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[74];
+    double coefficient;
+    uint8_t flags;
+} ImvUv6kj_ctx_t;
+
+void init_ctx(ImvUv6kj_ctx_t *ctx) {
+    ctx->id = 9539;
+    ctx->coefficient = 9.4;
+    ctx->flags = 131;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[41];
+    double coefficient;
+    uint8_t flags;
+} agDByH42_ctx_t;
+
+void init_ctx(agDByH42_ctx_t *ctx) {
+    ctx->id = 7792;
+    ctx->coefficient = 9.9;
+    ctx->flags = 201;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[61];
+    double coefficient;
+    uint8_t flags;
+} 66KdgeBD_ctx_t;
+
+void init_ctx(66KdgeBD_ctx_t *ctx) {
+    ctx->id = 9844;
+    ctx->coefficient = 9.1;
+    ctx->flags = 193;
+}
+
+int compute_qq8velC(int input) {
+    int result = input * 55;
+    for(int i = 0; i < 5; i++) result += (i * 5);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[32];
+    double coefficient;
+    uint8_t flags;
+} AW2GJT87_ctx_t;
+
+void init_ctx(AW2GJT87_ctx_t *ctx) {
+    ctx->id = 1263;
+    ctx->coefficient = 7.3;
+    ctx->flags = 17;
+}
+
+int compute_jLi9of0(int input) {
+    int result = input * 37;
+    for(int i = 0; i < 16; i++) result += (i * 3);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[41];
+    double coefficient;
+    uint8_t flags;
+} mMP5dz5k_ctx_t;
+
+void init_ctx(mMP5dz5k_ctx_t *ctx) {
+    ctx->id = 9245;
+    ctx->coefficient = 6.7;
+    ctx->flags = 3;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[85];
+    double coefficient;
+    uint8_t flags;
+} B5UFzJD4_ctx_t;
+
+void init_ctx(B5UFzJD4_ctx_t *ctx) {
+    ctx->id = 7966;
+    ctx->coefficient = 6.5;
+    ctx->flags = 212;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[71];
+    double coefficient;
+    uint8_t flags;
+} rLPRGggp_ctx_t;
+
+void init_ctx(rLPRGggp_ctx_t *ctx) {
+    ctx->id = 8880;
+    ctx->coefficient = 3.0;
+    ctx->flags = 61;
+}
+
+int compute_W0NOsha(int input) {
+    int result = input * 32;
+    for(int i = 0; i < 9; i++) result += (i * 5);
+    return result;
+}
+
+int compute_Tc68qO8(int input) {
+    int result = input * 40;
+    for(int i = 0; i < 18; i++) result += (i * 5);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[94];
+    double coefficient;
+    uint8_t flags;
+} 0ioQcqU6_ctx_t;
+
+void init_ctx(0ioQcqU6_ctx_t *ctx) {
+    ctx->id = 6512;
+    ctx->coefficient = 6.1;
+    ctx->flags = 234;
+}
+
+int compute_BpvBCoV(int input) {
+    int result = input * 26;
+    for(int i = 0; i < 17; i++) result += (i * 5);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[62];
+    double coefficient;
+    uint8_t flags;
+} f5zZXfdK_ctx_t;
+
+void init_ctx(f5zZXfdK_ctx_t *ctx) {
+    ctx->id = 5417;
+    ctx->coefficient = 5.8;
+    ctx->flags = 119;
+}
+
+int compute_Yxq5AAx(int input) {
+    int result = input * 58;
+    for(int i = 0; i < 9; i++) result += (i * 4);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[81];
+    double coefficient;
+    uint8_t flags;
+} nrMUgBiR_ctx_t;
+
+void init_ctx(nrMUgBiR_ctx_t *ctx) {
+    ctx->id = 6805;
+    ctx->coefficient = 4.2;
+    ctx->flags = 159;
+}
+
+int compute_vkEgegh(int input) {
+    int result = input * 40;
+    for(int i = 0; i < 4; i++) result += (i * 1);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[42];
+    double coefficient;
+    uint8_t flags;
+} K1SLHzNC_ctx_t;
+
+void init_ctx(K1SLHzNC_ctx_t *ctx) {
+    ctx->id = 4842;
+    ctx->coefficient = 1.9;
+    ctx->flags = 1;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[72];
+    double coefficient;
+    uint8_t flags;
+} CDG2aZZY_ctx_t;
+
+void init_ctx(CDG2aZZY_ctx_t *ctx) {
+    ctx->id = 8406;
+    ctx->coefficient = 9.4;
+    ctx->flags = 100;
+}
+
+int compute_Umuqt7g(int input) {
+    int result = input * 58;
+    for(int i = 0; i < 12; i++) result += (i * 3);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[35];
+    double coefficient;
+    uint8_t flags;
+} 9VLlw3sE_ctx_t;
+
+void init_ctx(9VLlw3sE_ctx_t *ctx) {
+    ctx->id = 4147;
+    ctx->coefficient = 4.2;
+    ctx->flags = 11;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[90];
+    double coefficient;
+    uint8_t flags;
+} E68mpy1P_ctx_t;
+
+void init_ctx(E68mpy1P_ctx_t *ctx) {
+    ctx->id = 2194;
+    ctx->coefficient = 7.2;
+    ctx->flags = 28;
+}
+
+int compute_09izFEX(int input) {
+    int result = input * 7;
+    for(int i = 0; i < 8; i++) result += (i * 3);
+    return result;
+}
+
+int compute_0VKxmJG(int input) {
+    int result = input * 68;
+    for(int i = 0; i < 4; i++) result += (i * 2);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[70];
+    double coefficient;
+    uint8_t flags;
+} uTeKVL9s_ctx_t;
+
+void init_ctx(uTeKVL9s_ctx_t *ctx) {
+    ctx->id = 9098;
+    ctx->coefficient = 8.8;
+    ctx->flags = 166;
+}
+
+int compute_PtxkdEi(int input) {
+    int result = input * 16;
+    for(int i = 0; i < 7; i++) result += (i * 3);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[79];
+    double coefficient;
+    uint8_t flags;
+} 4mFcksye_ctx_t;
+
+void init_ctx(4mFcksye_ctx_t *ctx) {
+    ctx->id = 4872;
+    ctx->coefficient = 6.2;
+    ctx->flags = 39;
+}
+
+int compute_0o7dJpb(int input) {
+    int result = input * 43;
+    for(int i = 0; i < 17; i++) result += (i * 1);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[87];
+    double coefficient;
+    uint8_t flags;
+} 18mfUdse_ctx_t;
+
+void init_ctx(18mfUdse_ctx_t *ctx) {
+    ctx->id = 7002;
+    ctx->coefficient = 3.9;
+    ctx->flags = 248;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[91];
+    double coefficient;
+    uint8_t flags;
+} 4GmAWYxW_ctx_t;
+
+void init_ctx(4GmAWYxW_ctx_t *ctx) {
+    ctx->id = 8107;
+    ctx->coefficient = 1.4;
+    ctx->flags = 152;
+}
+
+int compute_K9PnDXW(int input) {
+    int result = input * 64;
+    for(int i = 0; i < 12; i++) result += (i * 4);
+    return result;
+}
+
+int compute_v2bigg1(int input) {
+    int result = input * 57;
+    for(int i = 0; i < 14; i++) result += (i * 5);
+    return result;
+}
+
+int compute_0RouSlr(int input) {
+    int result = input * 14;
+    for(int i = 0; i < 17; i++) result += (i * 4);
+    return result;
+}
+
+int compute_ZF1YpuG(int input) {
+    int result = input * 8;
+    for(int i = 0; i < 6; i++) result += (i * 4);
+    return result;
+}
+
+int compute_hX0JBoP(int input) {
+    int result = input * 28;
+    for(int i = 0; i < 5; i++) result += (i * 5);
+    return result;
+}
+
+int compute_mvjVhvN(int input) {
+    int result = input * 4;
+    for(int i = 0; i < 14; i++) result += (i * 5);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[34];
+    double coefficient;
+    uint8_t flags;
+} ZH4A7nVZ_ctx_t;
+
+void init_ctx(ZH4A7nVZ_ctx_t *ctx) {
+    ctx->id = 3967;
+    ctx->coefficient = 6.3;
+    ctx->flags = 233;
+}
+
+int compute_wTLPJnO(int input) {
+    int result = input * 10;
+    for(int i = 0; i < 10; i++) result += (i * 5);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[63];
+    double coefficient;
+    uint8_t flags;
+} dSHEhJOT_ctx_t;
+
+void init_ctx(dSHEhJOT_ctx_t *ctx) {
+    ctx->id = 1771;
+    ctx->coefficient = 0.9;
+    ctx->flags = 53;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[50];
+    double coefficient;
+    uint8_t flags;
+} MD8NvUgj_ctx_t;
+
+void init_ctx(MD8NvUgj_ctx_t *ctx) {
+    ctx->id = 4512;
+    ctx->coefficient = 0.7;
+    ctx->flags = 200;
+}
+
+int compute_4xf6vxb(int input) {
+    int result = input * 23;
+    for(int i = 0; i < 10; i++) result += (i * 2);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[75];
+    double coefficient;
+    uint8_t flags;
+} jDub6sVv_ctx_t;
+
+void init_ctx(jDub6sVv_ctx_t *ctx) {
+    ctx->id = 9021;
+    ctx->coefficient = 4.9;
+    ctx->flags = 85;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[40];
+    double coefficient;
+    uint8_t flags;
+} lkYaShI3_ctx_t;
+
+void init_ctx(lkYaShI3_ctx_t *ctx) {
+    ctx->id = 1528;
+    ctx->coefficient = 1.8;
+    ctx->flags = 45;
+}
+
+int compute_awVlSFu(int input) {
+    int result = input * 12;
+    for(int i = 0; i < 8; i++) result += (i * 1);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[39];
+    double coefficient;
+    uint8_t flags;
+} WabXZ8Q6_ctx_t;
+
+void init_ctx(WabXZ8Q6_ctx_t *ctx) {
+    ctx->id = 4046;
+    ctx->coefficient = 7.8;
+    ctx->flags = 199;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[75];
+    double coefficient;
+    uint8_t flags;
+} gR722lFn_ctx_t;
+
+void init_ctx(gR722lFn_ctx_t *ctx) {
+    ctx->id = 3049;
+    ctx->coefficient = 6.9;
+    ctx->flags = 183;
+}
+
+int compute_MYmOp8g(int input) {
+    int result = input * 12;
+    for(int i = 0; i < 17; i++) result += (i * 1);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[50];
+    double coefficient;
+    uint8_t flags;
+} sSxD7oNk_ctx_t;
+
+void init_ctx(sSxD7oNk_ctx_t *ctx) {
+    ctx->id = 8628;
+    ctx->coefficient = 9.0;
+    ctx->flags = 148;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[81];
+    double coefficient;
+    uint8_t flags;
+} hnnpKySm_ctx_t;
+
+void init_ctx(hnnpKySm_ctx_t *ctx) {
+    ctx->id = 6233;
+    ctx->coefficient = 0.1;
+    ctx->flags = 55;
+}
+
+int compute_zdo949q(int input) {
+    int result = input * 48;
+    for(int i = 0; i < 6; i++) result += (i * 1);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[79];
+    double coefficient;
+    uint8_t flags;
+} Xy02y5fb_ctx_t;
+
+void init_ctx(Xy02y5fb_ctx_t *ctx) {
+    ctx->id = 5040;
+    ctx->coefficient = 10.0;
+    ctx->flags = 13;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[74];
+    double coefficient;
+    uint8_t flags;
+} lxE5g8nl_ctx_t;
+
+void init_ctx(lxE5g8nl_ctx_t *ctx) {
+    ctx->id = 6207;
+    ctx->coefficient = 7.6;
+    ctx->flags = 139;
+}
+
+int compute_iwzVz00(int input) {
+    int result = input * 58;
+    for(int i = 0; i < 6; i++) result += (i * 4);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[76];
+    double coefficient;
+    uint8_t flags;
+} C62vP2NB_ctx_t;
+
+void init_ctx(C62vP2NB_ctx_t *ctx) {
+    ctx->id = 8817;
+    ctx->coefficient = 9.7;
+    ctx->flags = 97;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[41];
+    double coefficient;
+    uint8_t flags;
+} PU4oGXhT_ctx_t;
+
+void init_ctx(PU4oGXhT_ctx_t *ctx) {
+    ctx->id = 2759;
+    ctx->coefficient = 2.8;
+    ctx->flags = 224;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[41];
+    double coefficient;
+    uint8_t flags;
+} CfDRD7C3_ctx_t;
+
+void init_ctx(CfDRD7C3_ctx_t *ctx) {
+    ctx->id = 7759;
+    ctx->coefficient = 4.1;
+    ctx->flags = 58;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[62];
+    double coefficient;
+    uint8_t flags;
+} hnkGkaEV_ctx_t;
+
+void init_ctx(hnkGkaEV_ctx_t *ctx) {
+    ctx->id = 2027;
+    ctx->coefficient = 2.5;
+    ctx->flags = 42;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[41];
+    double coefficient;
+    uint8_t flags;
+} iAANIDD6_ctx_t;
+
+void init_ctx(iAANIDD6_ctx_t *ctx) {
+    ctx->id = 2403;
+    ctx->coefficient = 9.5;
+    ctx->flags = 9;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[78];
+    double coefficient;
+    uint8_t flags;
+} wrOEk39j_ctx_t;
+
+void init_ctx(wrOEk39j_ctx_t *ctx) {
+    ctx->id = 4883;
+    ctx->coefficient = 0.8;
+    ctx->flags = 41;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[53];
+    double coefficient;
+    uint8_t flags;
+} GiiRXS63_ctx_t;
+
+void init_ctx(GiiRXS63_ctx_t *ctx) {
+    ctx->id = 7521;
+    ctx->coefficient = 8.6;
+    ctx->flags = 198;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[37];
+    double coefficient;
+    uint8_t flags;
+} aRrFkQfB_ctx_t;
+
+void init_ctx(aRrFkQfB_ctx_t *ctx) {
+    ctx->id = 2829;
+    ctx->coefficient = 5.2;
+    ctx->flags = 135;
+}
+
+int compute_VNFnlke(int input) {
+    int result = input * 58;
+    for(int i = 0; i < 17; i++) result += (i * 3);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[95];
+    double coefficient;
+    uint8_t flags;
+} K7FSxL3h_ctx_t;
+
+void init_ctx(K7FSxL3h_ctx_t *ctx) {
+    ctx->id = 9478;
+    ctx->coefficient = 7.9;
+    ctx->flags = 27;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[81];
+    double coefficient;
+    uint8_t flags;
+} 21asHjnQ_ctx_t;
+
+void init_ctx(21asHjnQ_ctx_t *ctx) {
+    ctx->id = 9974;
+    ctx->coefficient = 9.1;
+    ctx->flags = 119;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[39];
+    double coefficient;
+    uint8_t flags;
+} q4W07Rrd_ctx_t;
+
+void init_ctx(q4W07Rrd_ctx_t *ctx) {
+    ctx->id = 4280;
+    ctx->coefficient = 4.4;
+    ctx->flags = 87;
+}
+
+int compute_Qp3To5p(int input) {
+    int result = input * 44;
+    for(int i = 0; i < 13; i++) result += (i * 3);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[96];
+    double coefficient;
+    uint8_t flags;
+} hSg11FX7_ctx_t;
+
+void init_ctx(hSg11FX7_ctx_t *ctx) {
+    ctx->id = 1394;
+    ctx->coefficient = 0.5;
+    ctx->flags = 221;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[61];
+    double coefficient;
+    uint8_t flags;
+} viyJgYLy_ctx_t;
+
+void init_ctx(viyJgYLy_ctx_t *ctx) {
+    ctx->id = 8744;
+    ctx->coefficient = 0.7;
+    ctx->flags = 163;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[89];
+    double coefficient;
+    uint8_t flags;
+} OkzrB1zH_ctx_t;
+
+void init_ctx(OkzrB1zH_ctx_t *ctx) {
+    ctx->id = 2361;
+    ctx->coefficient = 1.5;
+    ctx->flags = 195;
+}
+
+int compute_owKmcfb(int input) {
+    int result = input * 48;
+    for(int i = 0; i < 6; i++) result += (i * 4);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[46];
+    double coefficient;
+    uint8_t flags;
+} mbHRQre1_ctx_t;
+
+void init_ctx(mbHRQre1_ctx_t *ctx) {
+    ctx->id = 1009;
+    ctx->coefficient = 4.0;
+    ctx->flags = 246;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[62];
+    double coefficient;
+    uint8_t flags;
+} IKoQWXnj_ctx_t;
+
+void init_ctx(IKoQWXnj_ctx_t *ctx) {
+    ctx->id = 2454;
+    ctx->coefficient = 1.1;
+    ctx->flags = 39;
+}
+
+int compute_Mwbecne(int input) {
+    int result = input * 18;
+    for(int i = 0; i < 9; i++) result += (i * 5);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[44];
+    double coefficient;
+    uint8_t flags;
+} IWqSx1Cq_ctx_t;
+
+void init_ctx(IWqSx1Cq_ctx_t *ctx) {
+    ctx->id = 2992;
+    ctx->coefficient = 8.5;
+    ctx->flags = 159;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[65];
+    double coefficient;
+    uint8_t flags;
+} eTEMrhgL_ctx_t;
+
+void init_ctx(eTEMrhgL_ctx_t *ctx) {
+    ctx->id = 6637;
+    ctx->coefficient = 5.8;
+    ctx->flags = 55;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[91];
+    double coefficient;
+    uint8_t flags;
+} x4CfKV8o_ctx_t;
+
+void init_ctx(x4CfKV8o_ctx_t *ctx) {
+    ctx->id = 6723;
+    ctx->coefficient = 4.9;
+    ctx->flags = 33;
+}
+
+int compute_Dz5K7wI(int input) {
+    int result = input * 58;
+    for(int i = 0; i < 7; i++) result += (i * 2);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[66];
+    double coefficient;
+    uint8_t flags;
+} buREf8l7_ctx_t;
+
+void init_ctx(buREf8l7_ctx_t *ctx) {
+    ctx->id = 8778;
+    ctx->coefficient = 3.4;
+    ctx->flags = 28;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[40];
+    double coefficient;
+    uint8_t flags;
+} 5GNFVRpI_ctx_t;
+
+void init_ctx(5GNFVRpI_ctx_t *ctx) {
+    ctx->id = 6571;
+    ctx->coefficient = 4.0;
+    ctx->flags = 118;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[38];
+    double coefficient;
+    uint8_t flags;
+} BC8D11M7_ctx_t;
+
+void init_ctx(BC8D11M7_ctx_t *ctx) {
+    ctx->id = 2215;
+    ctx->coefficient = 3.2;
+    ctx->flags = 87;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[46];
+    double coefficient;
+    uint8_t flags;
+} Li1HdcHv_ctx_t;
+
+void init_ctx(Li1HdcHv_ctx_t *ctx) {
+    ctx->id = 2434;
+    ctx->coefficient = 0.5;
+    ctx->flags = 97;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[37];
+    double coefficient;
+    uint8_t flags;
+} NKYnaOG1_ctx_t;
+
+void init_ctx(NKYnaOG1_ctx_t *ctx) {
+    ctx->id = 9379;
+    ctx->coefficient = 6.9;
+    ctx->flags = 189;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[78];
+    double coefficient;
+    uint8_t flags;
+} CeExYn3I_ctx_t;
+
+void init_ctx(CeExYn3I_ctx_t *ctx) {
+    ctx->id = 6306;
+    ctx->coefficient = 3.1;
+    ctx->flags = 93;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[76];
+    double coefficient;
+    uint8_t flags;
+} PqGkfZxd_ctx_t;
+
+void init_ctx(PqGkfZxd_ctx_t *ctx) {
+    ctx->id = 5599;
+    ctx->coefficient = 0.7;
+    ctx->flags = 123;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[40];
+    double coefficient;
+    uint8_t flags;
+} vnDKOtsj_ctx_t;
+
+void init_ctx(vnDKOtsj_ctx_t *ctx) {
+    ctx->id = 4918;
+    ctx->coefficient = 8.8;
+    ctx->flags = 66;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[83];
+    double coefficient;
+    uint8_t flags;
+} rBB1gvmT_ctx_t;
+
+void init_ctx(rBB1gvmT_ctx_t *ctx) {
+    ctx->id = 6567;
+    ctx->coefficient = 7.0;
+    ctx->flags = 207;
+}
+
+int compute_gV97nEQ(int input) {
+    int result = input * 4;
+    for(int i = 0; i < 7; i++) result += (i * 2);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[90];
+    double coefficient;
+    uint8_t flags;
+} w9PrmYJi_ctx_t;
+
+void init_ctx(w9PrmYJi_ctx_t *ctx) {
+    ctx->id = 6718;
+    ctx->coefficient = 8.1;
+    ctx->flags = 111;
+}
+
+int compute_Z8jecNC(int input) {
+    int result = input * 69;
+    for(int i = 0; i < 11; i++) result += (i * 2);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[65];
+    double coefficient;
+    uint8_t flags;
+} 31aDu1Rp_ctx_t;
+
+void init_ctx(31aDu1Rp_ctx_t *ctx) {
+    ctx->id = 2554;
+    ctx->coefficient = 5.0;
+    ctx->flags = 138;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[64];
+    double coefficient;
+    uint8_t flags;
+} ZHyIBJ5T_ctx_t;
+
+void init_ctx(ZHyIBJ5T_ctx_t *ctx) {
+    ctx->id = 3517;
+    ctx->coefficient = 3.1;
+    ctx->flags = 247;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[56];
+    double coefficient;
+    uint8_t flags;
+} 6qHIkiZL_ctx_t;
+
+void init_ctx(6qHIkiZL_ctx_t *ctx) {
+    ctx->id = 7106;
+    ctx->coefficient = 0.9;
+    ctx->flags = 223;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[90];
+    double coefficient;
+    uint8_t flags;
+} kcaiDq46_ctx_t;
+
+void init_ctx(kcaiDq46_ctx_t *ctx) {
+    ctx->id = 5358;
+    ctx->coefficient = 4.0;
+    ctx->flags = 103;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[65];
+    double coefficient;
+    uint8_t flags;
+} AQroU7k0_ctx_t;
+
+void init_ctx(AQroU7k0_ctx_t *ctx) {
+    ctx->id = 8932;
+    ctx->coefficient = 3.3;
+    ctx->flags = 4;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[43];
+    double coefficient;
+    uint8_t flags;
+} gQeNbjGA_ctx_t;
+
+void init_ctx(gQeNbjGA_ctx_t *ctx) {
+    ctx->id = 8787;
+    ctx->coefficient = 6.5;
+    ctx->flags = 218;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[34];
+    double coefficient;
+    uint8_t flags;
+} cAAVMk9m_ctx_t;
+
+void init_ctx(cAAVMk9m_ctx_t *ctx) {
+    ctx->id = 7069;
+    ctx->coefficient = 6.2;
+    ctx->flags = 69;
+}
+
+int compute_DlXYhHr(int input) {
+    int result = input * 22;
+    for(int i = 0; i < 11; i++) result += (i * 2);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[94];
+    double coefficient;
+    uint8_t flags;
+} 7F0i9Awz_ctx_t;
+
+void init_ctx(7F0i9Awz_ctx_t *ctx) {
+    ctx->id = 9915;
+    ctx->coefficient = 2.3;
+    ctx->flags = 113;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[59];
+    double coefficient;
+    uint8_t flags;
+} H8geGL8y_ctx_t;
+
+void init_ctx(H8geGL8y_ctx_t *ctx) {
+    ctx->id = 1427;
+    ctx->coefficient = 1.1;
+    ctx->flags = 31;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[34];
+    double coefficient;
+    uint8_t flags;
+} yPryDJka_ctx_t;
+
+void init_ctx(yPryDJka_ctx_t *ctx) {
+    ctx->id = 1917;
+    ctx->coefficient = 6.5;
+    ctx->flags = 133;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[36];
+    double coefficient;
+    uint8_t flags;
+} r12YR64X_ctx_t;
+
+void init_ctx(r12YR64X_ctx_t *ctx) {
+    ctx->id = 5744;
+    ctx->coefficient = 1.6;
+    ctx->flags = 207;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[61];
+    double coefficient;
+    uint8_t flags;
+} dapuEmrs_ctx_t;
+
+void init_ctx(dapuEmrs_ctx_t *ctx) {
+    ctx->id = 9548;
+    ctx->coefficient = 9.8;
+    ctx->flags = 22;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[93];
+    double coefficient;
+    uint8_t flags;
+} Pw2qv9vT_ctx_t;
+
+void init_ctx(Pw2qv9vT_ctx_t *ctx) {
+    ctx->id = 8601;
+    ctx->coefficient = 3.4;
+    ctx->flags = 167;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[44];
+    double coefficient;
+    uint8_t flags;
+} 4cqGf1gn_ctx_t;
+
+void init_ctx(4cqGf1gn_ctx_t *ctx) {
+    ctx->id = 8141;
+    ctx->coefficient = 7.9;
+    ctx->flags = 135;
+}
+
+int compute_adTv9aW(int input) {
+    int result = input * 37;
+    for(int i = 0; i < 12; i++) result += (i * 2);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[43];
+    double coefficient;
+    uint8_t flags;
+} bTZd2DBD_ctx_t;
+
+void init_ctx(bTZd2DBD_ctx_t *ctx) {
+    ctx->id = 4829;
+    ctx->coefficient = 1.3;
+    ctx->flags = 166;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[74];
+    double coefficient;
+    uint8_t flags;
+} hIJCE6Gv_ctx_t;
+
+void init_ctx(hIJCE6Gv_ctx_t *ctx) {
+    ctx->id = 4631;
+    ctx->coefficient = 9.2;
+    ctx->flags = 74;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[63];
+    double coefficient;
+    uint8_t flags;
+} OV0ANcuv_ctx_t;
+
+void init_ctx(OV0ANcuv_ctx_t *ctx) {
+    ctx->id = 3539;
+    ctx->coefficient = 5.3;
+    ctx->flags = 110;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[61];
+    double coefficient;
+    uint8_t flags;
+} XB9nqQYV_ctx_t;
+
+void init_ctx(XB9nqQYV_ctx_t *ctx) {
+    ctx->id = 3862;
+    ctx->coefficient = 3.7;
+    ctx->flags = 66;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[74];
+    double coefficient;
+    uint8_t flags;
+} PCHaSQuD_ctx_t;
+
+void init_ctx(PCHaSQuD_ctx_t *ctx) {
+    ctx->id = 3919;
+    ctx->coefficient = 9.1;
+    ctx->flags = 106;
+}
+
+int compute_Ld5xYCE(int input) {
+    int result = input * 33;
+    for(int i = 0; i < 5; i++) result += (i * 4);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[82];
+    double coefficient;
+    uint8_t flags;
+} MYfujvIJ_ctx_t;
+
+void init_ctx(MYfujvIJ_ctx_t *ctx) {
+    ctx->id = 8392;
+    ctx->coefficient = 4.8;
+    ctx->flags = 86;
+}
+
+int compute_fShclTW(int input) {
+    int result = input * 14;
+    for(int i = 0; i < 17; i++) result += (i * 1);
+    return result;
+}
+
+int compute_yq4WpEz(int input) {
+    int result = input * 63;
+    for(int i = 0; i < 17; i++) result += (i * 3);
+    return result;
+}
+
+int compute_wEBHMcG(int input) {
+    int result = input * 20;
+    for(int i = 0; i < 13; i++) result += (i * 4);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[59];
+    double coefficient;
+    uint8_t flags;
+} uURawHgm_ctx_t;
+
+void init_ctx(uURawHgm_ctx_t *ctx) {
+    ctx->id = 8380;
+    ctx->coefficient = 9.7;
+    ctx->flags = 185;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[53];
+    double coefficient;
+    uint8_t flags;
+} Noxhygqr_ctx_t;
+
+void init_ctx(Noxhygqr_ctx_t *ctx) {
+    ctx->id = 9038;
+    ctx->coefficient = 3.8;
+    ctx->flags = 76;
+}
+
+int compute_67YhF9D(int input) {
+    int result = input * 32;
+    for(int i = 0; i < 17; i++) result += (i * 4);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[88];
+    double coefficient;
+    uint8_t flags;
+} rYkUU93C_ctx_t;
+
+void init_ctx(rYkUU93C_ctx_t *ctx) {
+    ctx->id = 2981;
+    ctx->coefficient = 4.1;
+    ctx->flags = 146;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[87];
+    double coefficient;
+    uint8_t flags;
+} InPVXUP9_ctx_t;
+
+void init_ctx(InPVXUP9_ctx_t *ctx) {
+    ctx->id = 8671;
+    ctx->coefficient = 2.5;
+    ctx->flags = 40;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[48];
+    double coefficient;
+    uint8_t flags;
+} tEkCHErb_ctx_t;
+
+void init_ctx(tEkCHErb_ctx_t *ctx) {
+    ctx->id = 1291;
+    ctx->coefficient = 1.3;
+    ctx->flags = 145;
+}
+
+int compute_MU8dy48(int input) {
+    int result = input * 11;
+    for(int i = 0; i < 17; i++) result += (i * 4);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[66];
+    double coefficient;
+    uint8_t flags;
+} h0cNgJmD_ctx_t;
+
+void init_ctx(h0cNgJmD_ctx_t *ctx) {
+    ctx->id = 9339;
+    ctx->coefficient = 2.5;
+    ctx->flags = 54;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[96];
+    double coefficient;
+    uint8_t flags;
+} FRhVkkt9_ctx_t;
+
+void init_ctx(FRhVkkt9_ctx_t *ctx) {
+    ctx->id = 1168;
+    ctx->coefficient = 9.7;
+    ctx->flags = 173;
+}
+
+int compute_D8NOZDb(int input) {
+    int result = input * 53;
+    for(int i = 0; i < 5; i++) result += (i * 4);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[68];
+    double coefficient;
+    uint8_t flags;
+} mLPYhLam_ctx_t;
+
+void init_ctx(mLPYhLam_ctx_t *ctx) {
+    ctx->id = 7072;
+    ctx->coefficient = 7.1;
+    ctx->flags = 101;
+}
+
+int compute_LitGWxb(int input) {
+    int result = input * 45;
+    for(int i = 0; i < 12; i++) result += (i * 4);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[44];
+    double coefficient;
+    uint8_t flags;
+} jiNFIhJY_ctx_t;
+
+void init_ctx(jiNFIhJY_ctx_t *ctx) {
+    ctx->id = 1045;
+    ctx->coefficient = 9.0;
+    ctx->flags = 51;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[76];
+    double coefficient;
+    uint8_t flags;
+} IvRFuXYl_ctx_t;
+
+void init_ctx(IvRFuXYl_ctx_t *ctx) {
+    ctx->id = 9261;
+    ctx->coefficient = 7.4;
+    ctx->flags = 115;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[59];
+    double coefficient;
+    uint8_t flags;
+} v8ZQuYxX_ctx_t;
+
+void init_ctx(v8ZQuYxX_ctx_t *ctx) {
+    ctx->id = 7983;
+    ctx->coefficient = 6.2;
+    ctx->flags = 189;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[89];
+    double coefficient;
+    uint8_t flags;
+} dzB7nfGQ_ctx_t;
+
+void init_ctx(dzB7nfGQ_ctx_t *ctx) {
+    ctx->id = 3206;
+    ctx->coefficient = 2.0;
+    ctx->flags = 64;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[46];
+    double coefficient;
+    uint8_t flags;
+} Bekd3uch_ctx_t;
+
+void init_ctx(Bekd3uch_ctx_t *ctx) {
+    ctx->id = 9077;
+    ctx->coefficient = 4.4;
+    ctx->flags = 196;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[70];
+    double coefficient;
+    uint8_t flags;
+} IOZTbTs4_ctx_t;
+
+void init_ctx(IOZTbTs4_ctx_t *ctx) {
+    ctx->id = 7191;
+    ctx->coefficient = 5.9;
+    ctx->flags = 241;
+}
+
+int compute_WFpiC91(int input) {
+    int result = input * 37;
+    for(int i = 0; i < 7; i++) result += (i * 1);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[74];
+    double coefficient;
+    uint8_t flags;
+} dX8gHttN_ctx_t;
+
+void init_ctx(dX8gHttN_ctx_t *ctx) {
+    ctx->id = 2333;
+    ctx->coefficient = 1.2;
+    ctx->flags = 48;
+}
+
+int compute_Qwjdaee(int input) {
+    int result = input * 7;
+    for(int i = 0; i < 16; i++) result += (i * 4);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[33];
+    double coefficient;
+    uint8_t flags;
+} 2UEK7VWt_ctx_t;
+
+void init_ctx(2UEK7VWt_ctx_t *ctx) {
+    ctx->id = 1445;
+    ctx->coefficient = 8.5;
+    ctx->flags = 240;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[45];
+    double coefficient;
+    uint8_t flags;
+} A09U2evn_ctx_t;
+
+void init_ctx(A09U2evn_ctx_t *ctx) {
+    ctx->id = 9964;
+    ctx->coefficient = 1.6;
+    ctx->flags = 210;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[52];
+    double coefficient;
+    uint8_t flags;
+} V61HAQZX_ctx_t;
+
+void init_ctx(V61HAQZX_ctx_t *ctx) {
+    ctx->id = 2173;
+    ctx->coefficient = 9.1;
+    ctx->flags = 131;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[33];
+    double coefficient;
+    uint8_t flags;
+} uj0JtZeR_ctx_t;
+
+void init_ctx(uj0JtZeR_ctx_t *ctx) {
+    ctx->id = 9980;
+    ctx->coefficient = 6.7;
+    ctx->flags = 33;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[93];
+    double coefficient;
+    uint8_t flags;
+} TCeSNmKG_ctx_t;
+
+void init_ctx(TCeSNmKG_ctx_t *ctx) {
+    ctx->id = 8443;
+    ctx->coefficient = 6.8;
+    ctx->flags = 165;
+}
+
+int compute_l2Tti1c(int input) {
+    int result = input * 4;
+    for(int i = 0; i < 18; i++) result += (i * 2);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[82];
+    double coefficient;
+    uint8_t flags;
+} ZNRJTyqj_ctx_t;
+
+void init_ctx(ZNRJTyqj_ctx_t *ctx) {
+    ctx->id = 8536;
+    ctx->coefficient = 3.2;
+    ctx->flags = 165;
+}
+
+int compute_1zLzcqr(int input) {
+    int result = input * 16;
+    for(int i = 0; i < 6; i++) result += (i * 3);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[74];
+    double coefficient;
+    uint8_t flags;
+} 2PFNdcw5_ctx_t;
+
+void init_ctx(2PFNdcw5_ctx_t *ctx) {
+    ctx->id = 2929;
+    ctx->coefficient = 3.6;
+    ctx->flags = 35;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[87];
+    double coefficient;
+    uint8_t flags;
+} AQDeH9Nx_ctx_t;
+
+void init_ctx(AQDeH9Nx_ctx_t *ctx) {
+    ctx->id = 1995;
+    ctx->coefficient = 1.4;
+    ctx->flags = 221;
+}
+
+int compute_f9JDePW(int input) {
+    int result = input * 2;
+    for(int i = 0; i < 15; i++) result += (i * 5);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[82];
+    double coefficient;
+    uint8_t flags;
+} fUhlE7bB_ctx_t;
+
+void init_ctx(fUhlE7bB_ctx_t *ctx) {
+    ctx->id = 3010;
+    ctx->coefficient = 6.8;
+    ctx->flags = 204;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[84];
+    double coefficient;
+    uint8_t flags;
+} lFacxrRr_ctx_t;
+
+void init_ctx(lFacxrRr_ctx_t *ctx) {
+    ctx->id = 2684;
+    ctx->coefficient = 8.0;
+    ctx->flags = 142;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[68];
+    double coefficient;
+    uint8_t flags;
+} OdLmIVP1_ctx_t;
+
+void init_ctx(OdLmIVP1_ctx_t *ctx) {
+    ctx->id = 5090;
+    ctx->coefficient = 6.7;
+    ctx->flags = 214;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[75];
+    double coefficient;
+    uint8_t flags;
+} xH4tHDBy_ctx_t;
+
+void init_ctx(xH4tHDBy_ctx_t *ctx) {
+    ctx->id = 3578;
+    ctx->coefficient = 0.4;
+    ctx->flags = 153;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[77];
+    double coefficient;
+    uint8_t flags;
+} j4I3vw2Z_ctx_t;
+
+void init_ctx(j4I3vw2Z_ctx_t *ctx) {
+    ctx->id = 5839;
+    ctx->coefficient = 3.8;
+    ctx->flags = 71;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[96];
+    double coefficient;
+    uint8_t flags;
+} z9tJ6ldb_ctx_t;
+
+void init_ctx(z9tJ6ldb_ctx_t *ctx) {
+    ctx->id = 8356;
+    ctx->coefficient = 8.4;
+    ctx->flags = 223;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[90];
+    double coefficient;
+    uint8_t flags;
+} Y3lwDj3A_ctx_t;
+
+void init_ctx(Y3lwDj3A_ctx_t *ctx) {
+    ctx->id = 3452;
+    ctx->coefficient = 5.8;
+    ctx->flags = 211;
+}
+
+int compute_J1OvFPm(int input) {
+    int result = input * 37;
+    for(int i = 0; i < 13; i++) result += (i * 1);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[35];
+    double coefficient;
+    uint8_t flags;
+} I0IlIxMy_ctx_t;
+
+void init_ctx(I0IlIxMy_ctx_t *ctx) {
+    ctx->id = 8764;
+    ctx->coefficient = 8.5;
+    ctx->flags = 59;
+}
+
+int compute_zhtIGkW(int input) {
+    int result = input * 23;
+    for(int i = 0; i < 15; i++) result += (i * 1);
+    return result;
+}
+
+int compute_99waNwt(int input) {
+    int result = input * 52;
+    for(int i = 0; i < 8; i++) result += (i * 5);
+    return result;
+}
+
+int compute_qJMvTHb(int input) {
+    int result = input * 11;
+    for(int i = 0; i < 9; i++) result += (i * 5);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[39];
+    double coefficient;
+    uint8_t flags;
+} Qvs3LLGp_ctx_t;
+
+void init_ctx(Qvs3LLGp_ctx_t *ctx) {
+    ctx->id = 8902;
+    ctx->coefficient = 7.5;
+    ctx->flags = 17;
+}
+
+int compute_n6CSJsH(int input) {
+    int result = input * 44;
+    for(int i = 0; i < 11; i++) result += (i * 2);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[61];
+    double coefficient;
+    uint8_t flags;
+} kjqzA9Jf_ctx_t;
+
+void init_ctx(kjqzA9Jf_ctx_t *ctx) {
+    ctx->id = 1630;
+    ctx->coefficient = 2.9;
+    ctx->flags = 117;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[52];
+    double coefficient;
+    uint8_t flags;
+} 0vaQp7SE_ctx_t;
+
+void init_ctx(0vaQp7SE_ctx_t *ctx) {
+    ctx->id = 9838;
+    ctx->coefficient = 2.6;
+    ctx->flags = 158;
+}
+
+int compute_SuN4YGo(int input) {
+    int result = input * 65;
+    for(int i = 0; i < 16; i++) result += (i * 2);
+    return result;
+}
+
+int compute_TDRtecX(int input) {
+    int result = input * 57;
+    for(int i = 0; i < 4; i++) result += (i * 3);
+    return result;
+}
+
+int compute_CgVQZGr(int input) {
+    int result = input * 26;
+    for(int i = 0; i < 9; i++) result += (i * 3);
+    return result;
+}
+
+int compute_b6ufjDM(int input) {
+    int result = input * 14;
+    for(int i = 0; i < 15; i++) result += (i * 4);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[34];
+    double coefficient;
+    uint8_t flags;
+} ShCWgBcC_ctx_t;
+
+void init_ctx(ShCWgBcC_ctx_t *ctx) {
+    ctx->id = 8039;
+    ctx->coefficient = 2.9;
+    ctx->flags = 249;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[32];
+    double coefficient;
+    uint8_t flags;
+} HuMOLzLj_ctx_t;
+
+void init_ctx(HuMOLzLj_ctx_t *ctx) {
+    ctx->id = 5780;
+    ctx->coefficient = 8.4;
+    ctx->flags = 14;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[68];
+    double coefficient;
+    uint8_t flags;
+} 6QCf6NHt_ctx_t;
+
+void init_ctx(6QCf6NHt_ctx_t *ctx) {
+    ctx->id = 5043;
+    ctx->coefficient = 1.6;
+    ctx->flags = 4;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[96];
+    double coefficient;
+    uint8_t flags;
+} g5qintrK_ctx_t;
+
+void init_ctx(g5qintrK_ctx_t *ctx) {
+    ctx->id = 1373;
+    ctx->coefficient = 1.0;
+    ctx->flags = 103;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[59];
+    double coefficient;
+    uint8_t flags;
+} 17jtN5WO_ctx_t;
+
+void init_ctx(17jtN5WO_ctx_t *ctx) {
+    ctx->id = 2530;
+    ctx->coefficient = 3.7;
+    ctx->flags = 152;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[63];
+    double coefficient;
+    uint8_t flags;
+} dWRy1rhE_ctx_t;
+
+void init_ctx(dWRy1rhE_ctx_t *ctx) {
+    ctx->id = 4775;
+    ctx->coefficient = 2.1;
+    ctx->flags = 32;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[73];
+    double coefficient;
+    uint8_t flags;
+} n2vaBXqk_ctx_t;
+
+void init_ctx(n2vaBXqk_ctx_t *ctx) {
+    ctx->id = 8201;
+    ctx->coefficient = 0.4;
+    ctx->flags = 238;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[41];
+    double coefficient;
+    uint8_t flags;
+} bDlPjYaq_ctx_t;
+
+void init_ctx(bDlPjYaq_ctx_t *ctx) {
+    ctx->id = 5380;
+    ctx->coefficient = 9.9;
+    ctx->flags = 195;
+}
+
+int compute_KhkMB4e(int input) {
+    int result = input * 21;
+    for(int i = 0; i < 8; i++) result += (i * 2);
+    return result;
+}
+
+int compute_YlmTvx2(int input) {
+    int result = input * 24;
+    for(int i = 0; i < 14; i++) result += (i * 2);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[65];
+    double coefficient;
+    uint8_t flags;
+} rk4YsnjK_ctx_t;
+
+void init_ctx(rk4YsnjK_ctx_t *ctx) {
+    ctx->id = 2456;
+    ctx->coefficient = 4.4;
+    ctx->flags = 58;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[66];
+    double coefficient;
+    uint8_t flags;
+} QRA1PlG3_ctx_t;
+
+void init_ctx(QRA1PlG3_ctx_t *ctx) {
+    ctx->id = 4673;
+    ctx->coefficient = 3.9;
+    ctx->flags = 181;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[90];
+    double coefficient;
+    uint8_t flags;
+} 2AHwS9RP_ctx_t;
+
+void init_ctx(2AHwS9RP_ctx_t *ctx) {
+    ctx->id = 8283;
+    ctx->coefficient = 7.0;
+    ctx->flags = 84;
+}
+
+int compute_KqKpJg1(int input) {
+    int result = input * 60;
+    for(int i = 0; i < 16; i++) result += (i * 2);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[56];
+    double coefficient;
+    uint8_t flags;
+} qkU0bhxO_ctx_t;
+
+void init_ctx(qkU0bhxO_ctx_t *ctx) {
+    ctx->id = 2913;
+    ctx->coefficient = 6.5;
+    ctx->flags = 161;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[37];
+    double coefficient;
+    uint8_t flags;
+} cbloqPdL_ctx_t;
+
+void init_ctx(cbloqPdL_ctx_t *ctx) {
+    ctx->id = 6249;
+    ctx->coefficient = 9.1;
+    ctx->flags = 56;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[38];
+    double coefficient;
+    uint8_t flags;
+} Y2FLZWKI_ctx_t;
+
+void init_ctx(Y2FLZWKI_ctx_t *ctx) {
+    ctx->id = 3389;
+    ctx->coefficient = 1.9;
+    ctx->flags = 154;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[52];
+    double coefficient;
+    uint8_t flags;
+} y8Ejzvow_ctx_t;
+
+void init_ctx(y8Ejzvow_ctx_t *ctx) {
+    ctx->id = 5901;
+    ctx->coefficient = 2.0;
+    ctx->flags = 69;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[68];
+    double coefficient;
+    uint8_t flags;
+} ex0Y9iuH_ctx_t;
+
+void init_ctx(ex0Y9iuH_ctx_t *ctx) {
+    ctx->id = 7909;
+    ctx->coefficient = 8.1;
+    ctx->flags = 140;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[60];
+    double coefficient;
+    uint8_t flags;
+} nz7Wljdq_ctx_t;
+
+void init_ctx(nz7Wljdq_ctx_t *ctx) {
+    ctx->id = 6751;
+    ctx->coefficient = 6.7;
+    ctx->flags = 245;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[54];
+    double coefficient;
+    uint8_t flags;
+} rN48doGU_ctx_t;
+
+void init_ctx(rN48doGU_ctx_t *ctx) {
+    ctx->id = 1095;
+    ctx->coefficient = 7.5;
+    ctx->flags = 166;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[65];
+    double coefficient;
+    uint8_t flags;
+} YNe8vzX4_ctx_t;
+
+void init_ctx(YNe8vzX4_ctx_t *ctx) {
+    ctx->id = 9130;
+    ctx->coefficient = 0.1;
+    ctx->flags = 68;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[62];
+    double coefficient;
+    uint8_t flags;
+} s7fhaMXz_ctx_t;
+
+void init_ctx(s7fhaMXz_ctx_t *ctx) {
+    ctx->id = 6746;
+    ctx->coefficient = 2.6;
+    ctx->flags = 238;
+}
+
+int compute_11zG6WA(int input) {
+    int result = input * 33;
+    for(int i = 0; i < 14; i++) result += (i * 4);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[53];
+    double coefficient;
+    uint8_t flags;
+} OZlpjiXs_ctx_t;
+
+void init_ctx(OZlpjiXs_ctx_t *ctx) {
+    ctx->id = 2815;
+    ctx->coefficient = 5.0;
+    ctx->flags = 66;
+}
+
+int compute_a6N70Gn(int input) {
+    int result = input * 3;
+    for(int i = 0; i < 14; i++) result += (i * 3);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[48];
+    double coefficient;
+    uint8_t flags;
+} BWMnvK42_ctx_t;
+
+void init_ctx(BWMnvK42_ctx_t *ctx) {
+    ctx->id = 6987;
+    ctx->coefficient = 9.4;
+    ctx->flags = 243;
+}
+
+int compute_QpurCAy(int input) {
+    int result = input * 64;
+    for(int i = 0; i < 17; i++) result += (i * 3);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[88];
+    double coefficient;
+    uint8_t flags;
+} kt27P0an_ctx_t;
+
+void init_ctx(kt27P0an_ctx_t *ctx) {
+    ctx->id = 2232;
+    ctx->coefficient = 6.7;
+    ctx->flags = 134;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[40];
+    double coefficient;
+    uint8_t flags;
+} GXHaRVOu_ctx_t;
+
+void init_ctx(GXHaRVOu_ctx_t *ctx) {
+    ctx->id = 7086;
+    ctx->coefficient = 4.9;
+    ctx->flags = 87;
+}
+
+int compute_tQ4qlzW(int input) {
+    int result = input * 10;
+    for(int i = 0; i < 10; i++) result += (i * 4);
+    return result;
+}
+
+int compute_Cf9eeyr(int input) {
+    int result = input * 7;
+    for(int i = 0; i < 18; i++) result += (i * 3);
+    return result;
+}
+
+int compute_1rqumqn(int input) {
+    int result = input * 15;
+    for(int i = 0; i < 12; i++) result += (i * 2);
+    return result;
+}
+
+int compute_KW2p2c3(int input) {
+    int result = input * 10;
+    for(int i = 0; i < 14; i++) result += (i * 3);
+    return result;
+}
+
+int compute_3xnTxOj(int input) {
+    int result = input * 27;
+    for(int i = 0; i < 7; i++) result += (i * 4);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[54];
+    double coefficient;
+    uint8_t flags;
+} WLarjrAP_ctx_t;
+
+void init_ctx(WLarjrAP_ctx_t *ctx) {
+    ctx->id = 3286;
+    ctx->coefficient = 9.4;
+    ctx->flags = 215;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[60];
+    double coefficient;
+    uint8_t flags;
+} EOa4huYG_ctx_t;
+
+void init_ctx(EOa4huYG_ctx_t *ctx) {
+    ctx->id = 8779;
+    ctx->coefficient = 5.6;
+    ctx->flags = 126;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[72];
+    double coefficient;
+    uint8_t flags;
+} PVIHN6CE_ctx_t;
+
+void init_ctx(PVIHN6CE_ctx_t *ctx) {
+    ctx->id = 5128;
+    ctx->coefficient = 6.0;
+    ctx->flags = 3;
+}
+
+int compute_uG39IzW(int input) {
+    int result = input * 39;
+    for(int i = 0; i < 17; i++) result += (i * 3);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[37];
+    double coefficient;
+    uint8_t flags;
+} gHpUy0eV_ctx_t;
+
+void init_ctx(gHpUy0eV_ctx_t *ctx) {
+    ctx->id = 6343;
+    ctx->coefficient = 9.5;
+    ctx->flags = 78;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[48];
+    double coefficient;
+    uint8_t flags;
+} 6SNRdqpK_ctx_t;
+
+void init_ctx(6SNRdqpK_ctx_t *ctx) {
+    ctx->id = 1459;
+    ctx->coefficient = 6.3;
+    ctx->flags = 194;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[37];
+    double coefficient;
+    uint8_t flags;
+} 51TPbwKm_ctx_t;
+
+void init_ctx(51TPbwKm_ctx_t *ctx) {
+    ctx->id = 1489;
+    ctx->coefficient = 3.4;
+    ctx->flags = 222;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[49];
+    double coefficient;
+    uint8_t flags;
+} LhNPMPGL_ctx_t;
+
+void init_ctx(LhNPMPGL_ctx_t *ctx) {
+    ctx->id = 4703;
+    ctx->coefficient = 9.7;
+    ctx->flags = 34;
+}
+
+int compute_iEGhowX(int input) {
+    int result = input * 5;
+    for(int i = 0; i < 13; i++) result += (i * 4);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[72];
+    double coefficient;
+    uint8_t flags;
+} BKqDA0YR_ctx_t;
+
+void init_ctx(BKqDA0YR_ctx_t *ctx) {
+    ctx->id = 7408;
+    ctx->coefficient = 3.2;
+    ctx->flags = 112;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[60];
+    double coefficient;
+    uint8_t flags;
+} ShXFQNy7_ctx_t;
+
+void init_ctx(ShXFQNy7_ctx_t *ctx) {
+    ctx->id = 6414;
+    ctx->coefficient = 4.6;
+    ctx->flags = 63;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[66];
+    double coefficient;
+    uint8_t flags;
+} w3CRRAGl_ctx_t;
+
+void init_ctx(w3CRRAGl_ctx_t *ctx) {
+    ctx->id = 1335;
+    ctx->coefficient = 7.8;
+    ctx->flags = 50;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[39];
+    double coefficient;
+    uint8_t flags;
+} re18aigg_ctx_t;
+
+void init_ctx(re18aigg_ctx_t *ctx) {
+    ctx->id = 3069;
+    ctx->coefficient = 0.2;
+    ctx->flags = 251;
+}
+
+int compute_aSc3sPA(int input) {
+    int result = input * 66;
+    for(int i = 0; i < 7; i++) result += (i * 2);
+    return result;
+}
+
+int compute_NAapyBO(int input) {
+    int result = input * 45;
+    for(int i = 0; i < 16; i++) result += (i * 3);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[81];
+    double coefficient;
+    uint8_t flags;
+} E11MuGfv_ctx_t;
+
+void init_ctx(E11MuGfv_ctx_t *ctx) {
+    ctx->id = 1808;
+    ctx->coefficient = 0.5;
+    ctx->flags = 54;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[52];
+    double coefficient;
+    uint8_t flags;
+} AF5CMKXz_ctx_t;
+
+void init_ctx(AF5CMKXz_ctx_t *ctx) {
+    ctx->id = 1761;
+    ctx->coefficient = 3.0;
+    ctx->flags = 239;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[69];
+    double coefficient;
+    uint8_t flags;
+} JFMDsvMT_ctx_t;
+
+void init_ctx(JFMDsvMT_ctx_t *ctx) {
+    ctx->id = 8320;
+    ctx->coefficient = 2.6;
+    ctx->flags = 194;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[59];
+    double coefficient;
+    uint8_t flags;
+} UJ31IW1N_ctx_t;
+
+void init_ctx(UJ31IW1N_ctx_t *ctx) {
+    ctx->id = 8206;
+    ctx->coefficient = 4.7;
+    ctx->flags = 164;
+}
+
+int compute_5j5zyXP(int input) {
+    int result = input * 9;
+    for(int i = 0; i < 11; i++) result += (i * 2);
+    return result;
+}
+
+int compute_9acspLI(int input) {
+    int result = input * 8;
+    for(int i = 0; i < 16; i++) result += (i * 3);
+    return result;
+}
+
+int compute_QahWuim(int input) {
+    int result = input * 49;
+    for(int i = 0; i < 18; i++) result += (i * 4);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[50];
+    double coefficient;
+    uint8_t flags;
+} t2XCjXtq_ctx_t;
+
+void init_ctx(t2XCjXtq_ctx_t *ctx) {
+    ctx->id = 6991;
+    ctx->coefficient = 7.8;
+    ctx->flags = 81;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[86];
+    double coefficient;
+    uint8_t flags;
+} bZ8tY6E4_ctx_t;
+
+void init_ctx(bZ8tY6E4_ctx_t *ctx) {
+    ctx->id = 9925;
+    ctx->coefficient = 5.1;
+    ctx->flags = 26;
+}
+
+int compute_NAZ1OEc(int input) {
+    int result = input * 62;
+    for(int i = 0; i < 17; i++) result += (i * 5);
+    return result;
+}
+
+int compute_13xsNjb(int input) {
+    int result = input * 49;
+    for(int i = 0; i < 9; i++) result += (i * 1);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[39];
+    double coefficient;
+    uint8_t flags;
+} XRYgdWu4_ctx_t;
+
+void init_ctx(XRYgdWu4_ctx_t *ctx) {
+    ctx->id = 1250;
+    ctx->coefficient = 5.1;
+    ctx->flags = 159;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[82];
+    double coefficient;
+    uint8_t flags;
+} JPSbeXIY_ctx_t;
+
+void init_ctx(JPSbeXIY_ctx_t *ctx) {
+    ctx->id = 6750;
+    ctx->coefficient = 9.1;
+    ctx->flags = 30;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[93];
+    double coefficient;
+    uint8_t flags;
+} vL3bRlRk_ctx_t;
+
+void init_ctx(vL3bRlRk_ctx_t *ctx) {
+    ctx->id = 8746;
+    ctx->coefficient = 4.5;
+    ctx->flags = 111;
+}
+
+int compute_o2bMIJ8(int input) {
+    int result = input * 32;
+    for(int i = 0; i < 15; i++) result += (i * 2);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[35];
+    double coefficient;
+    uint8_t flags;
+} XbNCfayN_ctx_t;
+
+void init_ctx(XbNCfayN_ctx_t *ctx) {
+    ctx->id = 3345;
+    ctx->coefficient = 9.1;
+    ctx->flags = 114;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[71];
+    double coefficient;
+    uint8_t flags;
+} 5ao3JDsm_ctx_t;
+
+void init_ctx(5ao3JDsm_ctx_t *ctx) {
+    ctx->id = 4113;
+    ctx->coefficient = 4.0;
+    ctx->flags = 193;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[40];
+    double coefficient;
+    uint8_t flags;
+} b8AcH3CM_ctx_t;
+
+void init_ctx(b8AcH3CM_ctx_t *ctx) {
+    ctx->id = 5939;
+    ctx->coefficient = 4.8;
+    ctx->flags = 24;
+}
+
+int compute_IeUtZsT(int input) {
+    int result = input * 60;
+    for(int i = 0; i < 6; i++) result += (i * 5);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[73];
+    double coefficient;
+    uint8_t flags;
+} LtoZUHUS_ctx_t;
+
+void init_ctx(LtoZUHUS_ctx_t *ctx) {
+    ctx->id = 9175;
+    ctx->coefficient = 7.0;
+    ctx->flags = 211;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[86];
+    double coefficient;
+    uint8_t flags;
+} kKWb1Aai_ctx_t;
+
+void init_ctx(kKWb1Aai_ctx_t *ctx) {
+    ctx->id = 6042;
+    ctx->coefficient = 3.9;
+    ctx->flags = 221;
+}
+
+int compute_zhTGPnx(int input) {
+    int result = input * 8;
+    for(int i = 0; i < 11; i++) result += (i * 3);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[63];
+    double coefficient;
+    uint8_t flags;
+} VtWFEUAk_ctx_t;
+
+void init_ctx(VtWFEUAk_ctx_t *ctx) {
+    ctx->id = 4439;
+    ctx->coefficient = 2.6;
+    ctx->flags = 116;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[94];
+    double coefficient;
+    uint8_t flags;
+} aSqANl9p_ctx_t;
+
+void init_ctx(aSqANl9p_ctx_t *ctx) {
+    ctx->id = 9159;
+    ctx->coefficient = 5.0;
+    ctx->flags = 99;
+}
+
+int compute_np1dj2J(int input) {
+    int result = input * 70;
+    for(int i = 0; i < 6; i++) result += (i * 5);
+    return result;
+}
+
+int compute_ksheoXz(int input) {
+    int result = input * 54;
+    for(int i = 0; i < 10; i++) result += (i * 4);
+    return result;
+}
+
+int compute_pxKVZHT(int input) {
+    int result = input * 12;
+    for(int i = 0; i < 11; i++) result += (i * 5);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[55];
+    double coefficient;
+    uint8_t flags;
+} FvlGWpVH_ctx_t;
+
+void init_ctx(FvlGWpVH_ctx_t *ctx) {
+    ctx->id = 2328;
+    ctx->coefficient = 9.7;
+    ctx->flags = 32;
+}
+
+int compute_soHuTF6(int input) {
+    int result = input * 67;
+    for(int i = 0; i < 8; i++) result += (i * 5);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[38];
+    double coefficient;
+    uint8_t flags;
+} Otu0Q0TG_ctx_t;
+
+void init_ctx(Otu0Q0TG_ctx_t *ctx) {
+    ctx->id = 1873;
+    ctx->coefficient = 1.0;
+    ctx->flags = 227;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[89];
+    double coefficient;
+    uint8_t flags;
+} MtTqrMX0_ctx_t;
+
+void init_ctx(MtTqrMX0_ctx_t *ctx) {
+    ctx->id = 8832;
+    ctx->coefficient = 6.6;
+    ctx->flags = 174;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[40];
+    double coefficient;
+    uint8_t flags;
+} aDV7euYH_ctx_t;
+
+void init_ctx(aDV7euYH_ctx_t *ctx) {
+    ctx->id = 1892;
+    ctx->coefficient = 10.0;
+    ctx->flags = 217;
+}
+
+int compute_gOleIRR(int input) {
+    int result = input * 44;
+    for(int i = 0; i < 3; i++) result += (i * 2);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[88];
+    double coefficient;
+    uint8_t flags;
+} tkgQWRd0_ctx_t;
+
+void init_ctx(tkgQWRd0_ctx_t *ctx) {
+    ctx->id = 8034;
+    ctx->coefficient = 9.4;
+    ctx->flags = 121;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[55];
+    double coefficient;
+    uint8_t flags;
+} 5Qp2Q6ZQ_ctx_t;
+
+void init_ctx(5Qp2Q6ZQ_ctx_t *ctx) {
+    ctx->id = 8387;
+    ctx->coefficient = 8.5;
+    ctx->flags = 97;
+}
+
+int compute_CggRXc0(int input) {
+    int result = input * 42;
+    for(int i = 0; i < 9; i++) result += (i * 3);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[65];
+    double coefficient;
+    uint8_t flags;
+} xowEwQ7z_ctx_t;
+
+void init_ctx(xowEwQ7z_ctx_t *ctx) {
+    ctx->id = 6590;
+    ctx->coefficient = 3.7;
+    ctx->flags = 255;
+}
+
+int compute_ln7rmuk(int input) {
+    int result = input * 10;
+    for(int i = 0; i < 11; i++) result += (i * 4);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[42];
+    double coefficient;
+    uint8_t flags;
+} 5FGQcBSM_ctx_t;
+
+void init_ctx(5FGQcBSM_ctx_t *ctx) {
+    ctx->id = 4374;
+    ctx->coefficient = 2.4;
+    ctx->flags = 58;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[82];
+    double coefficient;
+    uint8_t flags;
+} liGM6vLw_ctx_t;
+
+void init_ctx(liGM6vLw_ctx_t *ctx) {
+    ctx->id = 3932;
+    ctx->coefficient = 6.4;
+    ctx->flags = 232;
+}
+
+int compute_XMS2ZGv(int input) {
+    int result = input * 53;
+    for(int i = 0; i < 9; i++) result += (i * 2);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[81];
+    double coefficient;
+    uint8_t flags;
+} dp5auWDL_ctx_t;
+
+void init_ctx(dp5auWDL_ctx_t *ctx) {
+    ctx->id = 9421;
+    ctx->coefficient = 6.3;
+    ctx->flags = 104;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[56];
+    double coefficient;
+    uint8_t flags;
+} dVkwt6gQ_ctx_t;
+
+void init_ctx(dVkwt6gQ_ctx_t *ctx) {
+    ctx->id = 4140;
+    ctx->coefficient = 6.5;
+    ctx->flags = 5;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[83];
+    double coefficient;
+    uint8_t flags;
+} L5FCqGkF_ctx_t;
+
+void init_ctx(L5FCqGkF_ctx_t *ctx) {
+    ctx->id = 5471;
+    ctx->coefficient = 1.9;
+    ctx->flags = 145;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[51];
+    double coefficient;
+    uint8_t flags;
+} ByzTCqbv_ctx_t;
+
+void init_ctx(ByzTCqbv_ctx_t *ctx) {
+    ctx->id = 9678;
+    ctx->coefficient = 4.3;
+    ctx->flags = 245;
+}
+
+int compute_WXGWtyJ(int input) {
+    int result = input * 55;
+    for(int i = 0; i < 6; i++) result += (i * 5);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[62];
+    double coefficient;
+    uint8_t flags;
+} 7tzTTiTl_ctx_t;
+
+void init_ctx(7tzTTiTl_ctx_t *ctx) {
+    ctx->id = 4879;
+    ctx->coefficient = 1.4;
+    ctx->flags = 158;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[73];
+    double coefficient;
+    uint8_t flags;
+} WvTIzRmJ_ctx_t;
+
+void init_ctx(WvTIzRmJ_ctx_t *ctx) {
+    ctx->id = 1416;
+    ctx->coefficient = 7.3;
+    ctx->flags = 105;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[70];
+    double coefficient;
+    uint8_t flags;
+} iPI16QKO_ctx_t;
+
+void init_ctx(iPI16QKO_ctx_t *ctx) {
+    ctx->id = 6126;
+    ctx->coefficient = 1.8;
+    ctx->flags = 227;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[91];
+    double coefficient;
+    uint8_t flags;
+} eYBRaBFn_ctx_t;
+
+void init_ctx(eYBRaBFn_ctx_t *ctx) {
+    ctx->id = 7417;
+    ctx->coefficient = 9.4;
+    ctx->flags = 217;
+}
+
+int compute_xH884Ux(int input) {
+    int result = input * 64;
+    for(int i = 0; i < 15; i++) result += (i * 5);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[78];
+    double coefficient;
+    uint8_t flags;
+} UPK1yoMX_ctx_t;
+
+void init_ctx(UPK1yoMX_ctx_t *ctx) {
+    ctx->id = 6679;
+    ctx->coefficient = 1.1;
+    ctx->flags = 15;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[33];
+    double coefficient;
+    uint8_t flags;
+} IeSdrlBr_ctx_t;
+
+void init_ctx(IeSdrlBr_ctx_t *ctx) {
+    ctx->id = 9428;
+    ctx->coefficient = 9.9;
+    ctx->flags = 56;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[69];
+    double coefficient;
+    uint8_t flags;
+} Rqa2O6c9_ctx_t;
+
+void init_ctx(Rqa2O6c9_ctx_t *ctx) {
+    ctx->id = 6371;
+    ctx->coefficient = 6.3;
+    ctx->flags = 110;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[55];
+    double coefficient;
+    uint8_t flags;
+} 0502PP8i_ctx_t;
+
+void init_ctx(0502PP8i_ctx_t *ctx) {
+    ctx->id = 1211;
+    ctx->coefficient = 6.9;
+    ctx->flags = 237;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[44];
+    double coefficient;
+    uint8_t flags;
+} 0KxJfkXV_ctx_t;
+
+void init_ctx(0KxJfkXV_ctx_t *ctx) {
+    ctx->id = 1248;
+    ctx->coefficient = 4.7;
+    ctx->flags = 69;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[86];
+    double coefficient;
+    uint8_t flags;
+} J9wrXMwY_ctx_t;
+
+void init_ctx(J9wrXMwY_ctx_t *ctx) {
+    ctx->id = 1523;
+    ctx->coefficient = 3.0;
+    ctx->flags = 124;
+}
+
+int compute_J72iEJI(int input) {
+    int result = input * 26;
+    for(int i = 0; i < 4; i++) result += (i * 4);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[96];
+    double coefficient;
+    uint8_t flags;
+} TTtbtfgV_ctx_t;
+
+void init_ctx(TTtbtfgV_ctx_t *ctx) {
+    ctx->id = 2537;
+    ctx->coefficient = 7.1;
+    ctx->flags = 37;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[95];
+    double coefficient;
+    uint8_t flags;
+} LThYXe98_ctx_t;
+
+void init_ctx(LThYXe98_ctx_t *ctx) {
+    ctx->id = 8303;
+    ctx->coefficient = 4.7;
+    ctx->flags = 173;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[41];
+    double coefficient;
+    uint8_t flags;
+} 5zKY4EWj_ctx_t;
+
+void init_ctx(5zKY4EWj_ctx_t *ctx) {
+    ctx->id = 6801;
+    ctx->coefficient = 2.5;
+    ctx->flags = 29;
+}
+
+int compute_ZDr5w2g(int input) {
+    int result = input * 63;
+    for(int i = 0; i < 11; i++) result += (i * 2);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[46];
+    double coefficient;
+    uint8_t flags;
+} 0i5Bcgrc_ctx_t;
+
+void init_ctx(0i5Bcgrc_ctx_t *ctx) {
+    ctx->id = 9522;
+    ctx->coefficient = 3.1;
+    ctx->flags = 236;
+}
+
+int compute_vonpg3K(int input) {
+    int result = input * 61;
+    for(int i = 0; i < 5; i++) result += (i * 4);
+    return result;
+}
+
+int compute_quCat02(int input) {
+    int result = input * 32;
+    for(int i = 0; i < 8; i++) result += (i * 2);
+    return result;
+}
+
+int compute_cZy3jAK(int input) {
+    int result = input * 4;
+    for(int i = 0; i < 11; i++) result += (i * 2);
+    return result;
+}
+
+int compute_IUM57DS(int input) {
+    int result = input * 2;
+    for(int i = 0; i < 15; i++) result += (i * 3);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[71];
+    double coefficient;
+    uint8_t flags;
+} lijSMjxe_ctx_t;
+
+void init_ctx(lijSMjxe_ctx_t *ctx) {
+    ctx->id = 6996;
+    ctx->coefficient = 4.1;
+    ctx->flags = 247;
+}
+
+int compute_MESkmFS(int input) {
+    int result = input * 49;
+    for(int i = 0; i < 14; i++) result += (i * 5);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[59];
+    double coefficient;
+    uint8_t flags;
+} qjebPLPD_ctx_t;
+
+void init_ctx(qjebPLPD_ctx_t *ctx) {
+    ctx->id = 2653;
+    ctx->coefficient = 9.3;
+    ctx->flags = 15;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[68];
+    double coefficient;
+    uint8_t flags;
+} knmmh1zJ_ctx_t;
+
+void init_ctx(knmmh1zJ_ctx_t *ctx) {
+    ctx->id = 9446;
+    ctx->coefficient = 3.8;
+    ctx->flags = 24;
+}
+
+int compute_0qYSC9L(int input) {
+    int result = input * 50;
+    for(int i = 0; i < 4; i++) result += (i * 4);
+    return result;
+}
+
+int compute_o3q8nA9(int input) {
+    int result = input * 39;
+    for(int i = 0; i < 12; i++) result += (i * 4);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[85];
+    double coefficient;
+    uint8_t flags;
+} 45Nejdyk_ctx_t;
+
+void init_ctx(45Nejdyk_ctx_t *ctx) {
+    ctx->id = 2595;
+    ctx->coefficient = 6.6;
+    ctx->flags = 23;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[86];
+    double coefficient;
+    uint8_t flags;
+} 3pU6ysRo_ctx_t;
+
+void init_ctx(3pU6ysRo_ctx_t *ctx) {
+    ctx->id = 3123;
+    ctx->coefficient = 2.8;
+    ctx->flags = 254;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[92];
+    double coefficient;
+    uint8_t flags;
+} bT23spIF_ctx_t;
+
+void init_ctx(bT23spIF_ctx_t *ctx) {
+    ctx->id = 9669;
+    ctx->coefficient = 6.0;
+    ctx->flags = 42;
+}
+
+int compute_3rzYYLL(int input) {
+    int result = input * 63;
+    for(int i = 0; i < 10; i++) result += (i * 3);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[52];
+    double coefficient;
+    uint8_t flags;
+} fDi9Oigu_ctx_t;
+
+void init_ctx(fDi9Oigu_ctx_t *ctx) {
+    ctx->id = 9066;
+    ctx->coefficient = 0.5;
+    ctx->flags = 87;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[87];
+    double coefficient;
+    uint8_t flags;
+} ox4LzATr_ctx_t;
+
+void init_ctx(ox4LzATr_ctx_t *ctx) {
+    ctx->id = 1158;
+    ctx->coefficient = 8.6;
+    ctx->flags = 214;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[71];
+    double coefficient;
+    uint8_t flags;
+} bIm5NVbM_ctx_t;
+
+void init_ctx(bIm5NVbM_ctx_t *ctx) {
+    ctx->id = 7460;
+    ctx->coefficient = 2.1;
+    ctx->flags = 85;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[65];
+    double coefficient;
+    uint8_t flags;
+} LJRk61RQ_ctx_t;
+
+void init_ctx(LJRk61RQ_ctx_t *ctx) {
+    ctx->id = 6558;
+    ctx->coefficient = 8.2;
+    ctx->flags = 0;
+}
+
+int compute_4pky71Q(int input) {
+    int result = input * 30;
+    for(int i = 0; i < 14; i++) result += (i * 3);
+    return result;
+}
+
+int compute_pLLR5mv(int input) {
+    int result = input * 25;
+    for(int i = 0; i < 17; i++) result += (i * 2);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[37];
+    double coefficient;
+    uint8_t flags;
+} mhrijMNJ_ctx_t;
+
+void init_ctx(mhrijMNJ_ctx_t *ctx) {
+    ctx->id = 7469;
+    ctx->coefficient = 5.6;
+    ctx->flags = 197;
+}
+
+int compute_yD2LRZl(int input) {
+    int result = input * 66;
+    for(int i = 0; i < 16; i++) result += (i * 2);
+    return result;
+}
+
+int compute_tawZGI1(int input) {
+    int result = input * 63;
+    for(int i = 0; i < 15; i++) result += (i * 4);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[60];
+    double coefficient;
+    uint8_t flags;
+} CvBx8n3e_ctx_t;
+
+void init_ctx(CvBx8n3e_ctx_t *ctx) {
+    ctx->id = 5324;
+    ctx->coefficient = 1.6;
+    ctx->flags = 215;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[77];
+    double coefficient;
+    uint8_t flags;
+} bJ31bKVd_ctx_t;
+
+void init_ctx(bJ31bKVd_ctx_t *ctx) {
+    ctx->id = 2319;
+    ctx->coefficient = 9.0;
+    ctx->flags = 112;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[39];
+    double coefficient;
+    uint8_t flags;
+} H5Jrw9iv_ctx_t;
+
+void init_ctx(H5Jrw9iv_ctx_t *ctx) {
+    ctx->id = 1746;
+    ctx->coefficient = 5.9;
+    ctx->flags = 145;
+}
+
+int compute_3fvV1B8(int input) {
+    int result = input * 64;
+    for(int i = 0; i < 10; i++) result += (i * 3);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[95];
+    double coefficient;
+    uint8_t flags;
+} zZCEEdKF_ctx_t;
+
+void init_ctx(zZCEEdKF_ctx_t *ctx) {
+    ctx->id = 5431;
+    ctx->coefficient = 2.9;
+    ctx->flags = 237;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[51];
+    double coefficient;
+    uint8_t flags;
+} Gfb1jn93_ctx_t;
+
+void init_ctx(Gfb1jn93_ctx_t *ctx) {
+    ctx->id = 3101;
+    ctx->coefficient = 4.0;
+    ctx->flags = 103;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[94];
+    double coefficient;
+    uint8_t flags;
+} tjxsQcwU_ctx_t;
+
+void init_ctx(tjxsQcwU_ctx_t *ctx) {
+    ctx->id = 8559;
+    ctx->coefficient = 10.0;
+    ctx->flags = 108;
+}
+
+int compute_EjnU6VN(int input) {
+    int result = input * 50;
+    for(int i = 0; i < 17; i++) result += (i * 5);
+    return result;
+}
+
+int compute_QLDp7zu(int input) {
+    int result = input * 21;
+    for(int i = 0; i < 8; i++) result += (i * 5);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[68];
+    double coefficient;
+    uint8_t flags;
+} HIUa3xJX_ctx_t;
+
+void init_ctx(HIUa3xJX_ctx_t *ctx) {
+    ctx->id = 8802;
+    ctx->coefficient = 6.5;
+    ctx->flags = 186;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[34];
+    double coefficient;
+    uint8_t flags;
+} hGLipEwZ_ctx_t;
+
+void init_ctx(hGLipEwZ_ctx_t *ctx) {
+    ctx->id = 3162;
+    ctx->coefficient = 0.9;
+    ctx->flags = 129;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[56];
+    double coefficient;
+    uint8_t flags;
+} W0xeJ10R_ctx_t;
+
+void init_ctx(W0xeJ10R_ctx_t *ctx) {
+    ctx->id = 8962;
+    ctx->coefficient = 2.0;
+    ctx->flags = 139;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[78];
+    double coefficient;
+    uint8_t flags;
+} iXO9I4qW_ctx_t;
+
+void init_ctx(iXO9I4qW_ctx_t *ctx) {
+    ctx->id = 3988;
+    ctx->coefficient = 0.9;
+    ctx->flags = 77;
+}
+
+int compute_AyEa9E5(int input) {
+    int result = input * 53;
+    for(int i = 0; i < 8; i++) result += (i * 4);
+    return result;
+}
+
+int compute_E4KATTu(int input) {
+    int result = input * 36;
+    for(int i = 0; i < 14; i++) result += (i * 2);
+    return result;
+}
+
+int compute_Mc2uGOH(int input) {
+    int result = input * 64;
+    for(int i = 0; i < 4; i++) result += (i * 3);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[57];
+    double coefficient;
+    uint8_t flags;
+} jdZsOz8B_ctx_t;
+
+void init_ctx(jdZsOz8B_ctx_t *ctx) {
+    ctx->id = 4429;
+    ctx->coefficient = 7.7;
+    ctx->flags = 22;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[93];
+    double coefficient;
+    uint8_t flags;
+} oDxzYtug_ctx_t;
+
+void init_ctx(oDxzYtug_ctx_t *ctx) {
+    ctx->id = 2674;
+    ctx->coefficient = 4.7;
+    ctx->flags = 136;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[46];
+    double coefficient;
+    uint8_t flags;
+} mRZVSxZm_ctx_t;
+
+void init_ctx(mRZVSxZm_ctx_t *ctx) {
+    ctx->id = 1622;
+    ctx->coefficient = 3.3;
+    ctx->flags = 231;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[84];
+    double coefficient;
+    uint8_t flags;
+} hluKLQTy_ctx_t;
+
+void init_ctx(hluKLQTy_ctx_t *ctx) {
+    ctx->id = 9874;
+    ctx->coefficient = 1.0;
+    ctx->flags = 47;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[88];
+    double coefficient;
+    uint8_t flags;
+} LJO5K32B_ctx_t;
+
+void init_ctx(LJO5K32B_ctx_t *ctx) {
+    ctx->id = 1139;
+    ctx->coefficient = 4.1;
+    ctx->flags = 148;
+}
+
+int compute_KE06g2B(int input) {
+    int result = input * 41;
+    for(int i = 0; i < 16; i++) result += (i * 3);
+    return result;
+}
+
+int compute_ZPJwSxd(int input) {
+    int result = input * 49;
+    for(int i = 0; i < 16; i++) result += (i * 5);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[91];
+    double coefficient;
+    uint8_t flags;
+} yniUrVga_ctx_t;
+
+void init_ctx(yniUrVga_ctx_t *ctx) {
+    ctx->id = 1626;
+    ctx->coefficient = 4.1;
+    ctx->flags = 23;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[88];
+    double coefficient;
+    uint8_t flags;
+} QM63jj8v_ctx_t;
+
+void init_ctx(QM63jj8v_ctx_t *ctx) {
+    ctx->id = 2033;
+    ctx->coefficient = 2.2;
+    ctx->flags = 233;
+}
+
+int compute_46LVnHu(int input) {
+    int result = input * 32;
+    for(int i = 0; i < 18; i++) result += (i * 1);
+    return result;
+}
+
+int compute_yjVk3pP(int input) {
+    int result = input * 27;
+    for(int i = 0; i < 18; i++) result += (i * 5);
+    return result;
+}
+
+int compute_ogrmBl9(int input) {
+    int result = input * 40;
+    for(int i = 0; i < 17; i++) result += (i * 4);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[84];
+    double coefficient;
+    uint8_t flags;
+} Ate1DjAa_ctx_t;
+
+void init_ctx(Ate1DjAa_ctx_t *ctx) {
+    ctx->id = 6659;
+    ctx->coefficient = 9.7;
+    ctx->flags = 229;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[40];
+    double coefficient;
+    uint8_t flags;
+} D0JcBI8u_ctx_t;
+
+void init_ctx(D0JcBI8u_ctx_t *ctx) {
+    ctx->id = 2024;
+    ctx->coefficient = 7.0;
+    ctx->flags = 115;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[76];
+    double coefficient;
+    uint8_t flags;
+} xgmVcCye_ctx_t;
+
+void init_ctx(xgmVcCye_ctx_t *ctx) {
+    ctx->id = 5927;
+    ctx->coefficient = 4.0;
+    ctx->flags = 36;
+}
+
+int compute_fAAeeij(int input) {
+    int result = input * 10;
+    for(int i = 0; i < 11; i++) result += (i * 4);
+    return result;
+}
+
+int compute_CNo0909(int input) {
+    int result = input * 45;
+    for(int i = 0; i < 16; i++) result += (i * 4);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[44];
+    double coefficient;
+    uint8_t flags;
+} IvdmLqnJ_ctx_t;
+
+void init_ctx(IvdmLqnJ_ctx_t *ctx) {
+    ctx->id = 1244;
+    ctx->coefficient = 0.7;
+    ctx->flags = 154;
+}
+
+int compute_ZeeLHtS(int input) {
+    int result = input * 69;
+    for(int i = 0; i < 10; i++) result += (i * 4);
+    return result;
+}
+
+int compute_kteLFM8(int input) {
+    int result = input * 2;
+    for(int i = 0; i < 3; i++) result += (i * 5);
+    return result;
+}
+
+int compute_ZMCiT6u(int input) {
+    int result = input * 34;
+    for(int i = 0; i < 7; i++) result += (i * 1);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[96];
+    double coefficient;
+    uint8_t flags;
+} devZYPKO_ctx_t;
+
+void init_ctx(devZYPKO_ctx_t *ctx) {
+    ctx->id = 7301;
+    ctx->coefficient = 1.9;
+    ctx->flags = 174;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[90];
+    double coefficient;
+    uint8_t flags;
+} sLXaYHJD_ctx_t;
+
+void init_ctx(sLXaYHJD_ctx_t *ctx) {
+    ctx->id = 6495;
+    ctx->coefficient = 1.3;
+    ctx->flags = 130;
+}
+
+int compute_lcxj7h5(int input) {
+    int result = input * 22;
+    for(int i = 0; i < 7; i++) result += (i * 4);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[73];
+    double coefficient;
+    uint8_t flags;
+} 3NO1a9jq_ctx_t;
+
+void init_ctx(3NO1a9jq_ctx_t *ctx) {
+    ctx->id = 1991;
+    ctx->coefficient = 2.9;
+    ctx->flags = 137;
+}
+
+int compute_oqhjkkn(int input) {
+    int result = input * 26;
+    for(int i = 0; i < 18; i++) result += (i * 2);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[88];
+    double coefficient;
+    uint8_t flags;
+} dUHF8Qya_ctx_t;
+
+void init_ctx(dUHF8Qya_ctx_t *ctx) {
+    ctx->id = 4092;
+    ctx->coefficient = 7.5;
+    ctx->flags = 228;
+}
+
+int compute_gsXNAoI(int input) {
+    int result = input * 44;
+    for(int i = 0; i < 16; i++) result += (i * 5);
+    return result;
+}
+
+int compute_ILm0rWA(int input) {
+    int result = input * 21;
+    for(int i = 0; i < 14; i++) result += (i * 5);
+    return result;
+}
+
+int compute_oDnR0Q1(int input) {
+    int result = input * 27;
+    for(int i = 0; i < 9; i++) result += (i * 5);
+    return result;
+}
+
+int compute_Gjfj0nK(int input) {
+    int result = input * 17;
+    for(int i = 0; i < 4; i++) result += (i * 5);
+    return result;
+}
+
+int compute_iCKjC51(int input) {
+    int result = input * 68;
+    for(int i = 0; i < 14; i++) result += (i * 1);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[56];
+    double coefficient;
+    uint8_t flags;
+} FBSdJCXl_ctx_t;
+
+void init_ctx(FBSdJCXl_ctx_t *ctx) {
+    ctx->id = 5888;
+    ctx->coefficient = 4.2;
+    ctx->flags = 208;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[88];
+    double coefficient;
+    uint8_t flags;
+} fygYxM2C_ctx_t;
+
+void init_ctx(fygYxM2C_ctx_t *ctx) {
+    ctx->id = 4099;
+    ctx->coefficient = 0.3;
+    ctx->flags = 159;
+}
+
+int compute_E4d1UrY(int input) {
+    int result = input * 68;
+    for(int i = 0; i < 4; i++) result += (i * 3);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[46];
+    double coefficient;
+    uint8_t flags;
+} qwjO64xL_ctx_t;
+
+void init_ctx(qwjO64xL_ctx_t *ctx) {
+    ctx->id = 7662;
+    ctx->coefficient = 2.9;
+    ctx->flags = 225;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[52];
+    double coefficient;
+    uint8_t flags;
+} 0nXcAs2Z_ctx_t;
+
+void init_ctx(0nXcAs2Z_ctx_t *ctx) {
+    ctx->id = 3680;
+    ctx->coefficient = 6.8;
+    ctx->flags = 229;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[69];
+    double coefficient;
+    uint8_t flags;
+} NLBoQNtp_ctx_t;
+
+void init_ctx(NLBoQNtp_ctx_t *ctx) {
+    ctx->id = 7326;
+    ctx->coefficient = 1.1;
+    ctx->flags = 76;
+}
+
+int compute_sWqiHjw(int input) {
+    int result = input * 58;
+    for(int i = 0; i < 8; i++) result += (i * 2);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[68];
+    double coefficient;
+    uint8_t flags;
+} IK2YGCkT_ctx_t;
+
+void init_ctx(IK2YGCkT_ctx_t *ctx) {
+    ctx->id = 8489;
+    ctx->coefficient = 0.6;
+    ctx->flags = 219;
+}
+
+int compute_3zjL5Fj(int input) {
+    int result = input * 19;
+    for(int i = 0; i < 4; i++) result += (i * 5);
+    return result;
+}
+
+int compute_NxKBhtJ(int input) {
+    int result = input * 24;
+    for(int i = 0; i < 6; i++) result += (i * 1);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[55];
+    double coefficient;
+    uint8_t flags;
+} ZNGi2HQv_ctx_t;
+
+void init_ctx(ZNGi2HQv_ctx_t *ctx) {
+    ctx->id = 5500;
+    ctx->coefficient = 4.3;
+    ctx->flags = 168;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[35];
+    double coefficient;
+    uint8_t flags;
+} PQK29Ry6_ctx_t;
+
+void init_ctx(PQK29Ry6_ctx_t *ctx) {
+    ctx->id = 6031;
+    ctx->coefficient = 1.9;
+    ctx->flags = 99;
+}
+
+int compute_e2wmqEr(int input) {
+    int result = input * 49;
+    for(int i = 0; i < 11; i++) result += (i * 5);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[86];
+    double coefficient;
+    uint8_t flags;
+} C2KdTk0J_ctx_t;
+
+void init_ctx(C2KdTk0J_ctx_t *ctx) {
+    ctx->id = 4109;
+    ctx->coefficient = 7.1;
+    ctx->flags = 113;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[55];
+    double coefficient;
+    uint8_t flags;
+} Ti3Cej14_ctx_t;
+
+void init_ctx(Ti3Cej14_ctx_t *ctx) {
+    ctx->id = 5678;
+    ctx->coefficient = 7.5;
+    ctx->flags = 88;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[83];
+    double coefficient;
+    uint8_t flags;
+} enVrarYE_ctx_t;
+
+void init_ctx(enVrarYE_ctx_t *ctx) {
+    ctx->id = 3452;
+    ctx->coefficient = 6.2;
+    ctx->flags = 32;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[32];
+    double coefficient;
+    uint8_t flags;
+} qtxPg2Q4_ctx_t;
+
+void init_ctx(qtxPg2Q4_ctx_t *ctx) {
+    ctx->id = 8884;
+    ctx->coefficient = 4.9;
+    ctx->flags = 228;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[92];
+    double coefficient;
+    uint8_t flags;
+} IF11Evwj_ctx_t;
+
+void init_ctx(IF11Evwj_ctx_t *ctx) {
+    ctx->id = 5285;
+    ctx->coefficient = 9.6;
+    ctx->flags = 144;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[50];
+    double coefficient;
+    uint8_t flags;
+} 3oppo5I9_ctx_t;
+
+void init_ctx(3oppo5I9_ctx_t *ctx) {
+    ctx->id = 9385;
+    ctx->coefficient = 0.3;
+    ctx->flags = 115;
+}
+
+int compute_yWTAVMK(int input) {
+    int result = input * 3;
+    for(int i = 0; i < 12; i++) result += (i * 4);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[35];
+    double coefficient;
+    uint8_t flags;
+} kKEpHxR1_ctx_t;
+
+void init_ctx(kKEpHxR1_ctx_t *ctx) {
+    ctx->id = 3859;
+    ctx->coefficient = 1.1;
+    ctx->flags = 116;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[86];
+    double coefficient;
+    uint8_t flags;
+} Dok8NRco_ctx_t;
+
+void init_ctx(Dok8NRco_ctx_t *ctx) {
+    ctx->id = 3177;
+    ctx->coefficient = 1.6;
+    ctx->flags = 69;
+}
+
+int compute_dpG06Ou(int input) {
+    int result = input * 65;
+    for(int i = 0; i < 10; i++) result += (i * 3);
+    return result;
+}
+
+int compute_WYvzO71(int input) {
+    int result = input * 3;
+    for(int i = 0; i < 15; i++) result += (i * 3);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[50];
+    double coefficient;
+    uint8_t flags;
+} weCeuu2p_ctx_t;
+
+void init_ctx(weCeuu2p_ctx_t *ctx) {
+    ctx->id = 6762;
+    ctx->coefficient = 9.3;
+    ctx->flags = 136;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[73];
+    double coefficient;
+    uint8_t flags;
+} wkccSOnn_ctx_t;
+
+void init_ctx(wkccSOnn_ctx_t *ctx) {
+    ctx->id = 4420;
+    ctx->coefficient = 0.4;
+    ctx->flags = 42;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[51];
+    double coefficient;
+    uint8_t flags;
+} EQq7UuuO_ctx_t;
+
+void init_ctx(EQq7UuuO_ctx_t *ctx) {
+    ctx->id = 6487;
+    ctx->coefficient = 6.8;
+    ctx->flags = 235;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[35];
+    double coefficient;
+    uint8_t flags;
+} TAknH5w8_ctx_t;
+
+void init_ctx(TAknH5w8_ctx_t *ctx) {
+    ctx->id = 9134;
+    ctx->coefficient = 6.1;
+    ctx->flags = 9;
+}
+
+int compute_pSthqMX(int input) {
+    int result = input * 6;
+    for(int i = 0; i < 16; i++) result += (i * 1);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[81];
+    double coefficient;
+    uint8_t flags;
+} SHKxtcjD_ctx_t;
+
+void init_ctx(SHKxtcjD_ctx_t *ctx) {
+    ctx->id = 4885;
+    ctx->coefficient = 8.0;
+    ctx->flags = 58;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[75];
+    double coefficient;
+    uint8_t flags;
+} 59xwWPaT_ctx_t;
+
+void init_ctx(59xwWPaT_ctx_t *ctx) {
+    ctx->id = 1639;
+    ctx->coefficient = 6.3;
+    ctx->flags = 132;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[34];
+    double coefficient;
+    uint8_t flags;
+} GsZEeehw_ctx_t;
+
+void init_ctx(GsZEeehw_ctx_t *ctx) {
+    ctx->id = 1272;
+    ctx->coefficient = 0.8;
+    ctx->flags = 223;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[83];
+    double coefficient;
+    uint8_t flags;
+} rWqSJdKU_ctx_t;
+
+void init_ctx(rWqSJdKU_ctx_t *ctx) {
+    ctx->id = 2338;
+    ctx->coefficient = 1.4;
+    ctx->flags = 246;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[83];
+    double coefficient;
+    uint8_t flags;
+} po8UkSEZ_ctx_t;
+
+void init_ctx(po8UkSEZ_ctx_t *ctx) {
+    ctx->id = 1811;
+    ctx->coefficient = 3.4;
+    ctx->flags = 231;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[79];
+    double coefficient;
+    uint8_t flags;
+} dk3tOX0Z_ctx_t;
+
+void init_ctx(dk3tOX0Z_ctx_t *ctx) {
+    ctx->id = 9795;
+    ctx->coefficient = 9.3;
+    ctx->flags = 168;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[50];
+    double coefficient;
+    uint8_t flags;
+} 13JAyO6n_ctx_t;
+
+void init_ctx(13JAyO6n_ctx_t *ctx) {
+    ctx->id = 6725;
+    ctx->coefficient = 0.3;
+    ctx->flags = 147;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[91];
+    double coefficient;
+    uint8_t flags;
+} 85yoVdiy_ctx_t;
+
+void init_ctx(85yoVdiy_ctx_t *ctx) {
+    ctx->id = 5311;
+    ctx->coefficient = 4.1;
+    ctx->flags = 18;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[76];
+    double coefficient;
+    uint8_t flags;
+} cBJgfeKp_ctx_t;
+
+void init_ctx(cBJgfeKp_ctx_t *ctx) {
+    ctx->id = 4414;
+    ctx->coefficient = 7.0;
+    ctx->flags = 6;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[68];
+    double coefficient;
+    uint8_t flags;
+} F9FoNs7S_ctx_t;
+
+void init_ctx(F9FoNs7S_ctx_t *ctx) {
+    ctx->id = 2508;
+    ctx->coefficient = 9.8;
+    ctx->flags = 142;
+}
+
+int compute_L9gmBb9(int input) {
+    int result = input * 15;
+    for(int i = 0; i < 6; i++) result += (i * 2);
+    return result;
+}
+
+int compute_50Q4RIF(int input) {
+    int result = input * 65;
+    for(int i = 0; i < 17; i++) result += (i * 3);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[96];
+    double coefficient;
+    uint8_t flags;
+} yeBixg8W_ctx_t;
+
+void init_ctx(yeBixg8W_ctx_t *ctx) {
+    ctx->id = 9190;
+    ctx->coefficient = 5.7;
+    ctx->flags = 184;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[40];
+    double coefficient;
+    uint8_t flags;
+} BeCq2MIK_ctx_t;
+
+void init_ctx(BeCq2MIK_ctx_t *ctx) {
+    ctx->id = 4892;
+    ctx->coefficient = 4.7;
+    ctx->flags = 116;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[48];
+    double coefficient;
+    uint8_t flags;
+} sdJaBJne_ctx_t;
+
+void init_ctx(sdJaBJne_ctx_t *ctx) {
+    ctx->id = 1891;
+    ctx->coefficient = 1.9;
+    ctx->flags = 134;
+}
+
+int compute_Oi5Cog2(int input) {
+    int result = input * 53;
+    for(int i = 0; i < 16; i++) result += (i * 3);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[82];
+    double coefficient;
+    uint8_t flags;
+} rrSzSI4J_ctx_t;
+
+void init_ctx(rrSzSI4J_ctx_t *ctx) {
+    ctx->id = 8753;
+    ctx->coefficient = 7.7;
+    ctx->flags = 143;
+}
+
+int compute_3lSG0oS(int input) {
+    int result = input * 39;
+    for(int i = 0; i < 17; i++) result += (i * 2);
+    return result;
+}
+
+int compute_a4Egztd(int input) {
+    int result = input * 31;
+    for(int i = 0; i < 16; i++) result += (i * 4);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[67];
+    double coefficient;
+    uint8_t flags;
+} qMKYCMZO_ctx_t;
+
+void init_ctx(qMKYCMZO_ctx_t *ctx) {
+    ctx->id = 8074;
+    ctx->coefficient = 4.5;
+    ctx->flags = 50;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[47];
+    double coefficient;
+    uint8_t flags;
+} OsNr4eu3_ctx_t;
+
+void init_ctx(OsNr4eu3_ctx_t *ctx) {
+    ctx->id = 3600;
+    ctx->coefficient = 9.1;
+    ctx->flags = 150;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[75];
+    double coefficient;
+    uint8_t flags;
+} aprqNExz_ctx_t;
+
+void init_ctx(aprqNExz_ctx_t *ctx) {
+    ctx->id = 3878;
+    ctx->coefficient = 6.8;
+    ctx->flags = 84;
+}
+
+int compute_QoHjcuE(int input) {
+    int result = input * 20;
+    for(int i = 0; i < 9; i++) result += (i * 4);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[64];
+    double coefficient;
+    uint8_t flags;
+} 83njV4yV_ctx_t;
+
+void init_ctx(83njV4yV_ctx_t *ctx) {
+    ctx->id = 8391;
+    ctx->coefficient = 7.5;
+    ctx->flags = 154;
+}
+
+int compute_Gg1dUAQ(int input) {
+    int result = input * 32;
+    for(int i = 0; i < 17; i++) result += (i * 2);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[49];
+    double coefficient;
+    uint8_t flags;
+} JV5PYK4K_ctx_t;
+
+void init_ctx(JV5PYK4K_ctx_t *ctx) {
+    ctx->id = 6675;
+    ctx->coefficient = 9.5;
+    ctx->flags = 164;
+}
+
+int compute_lFZFISi(int input) {
+    int result = input * 3;
+    for(int i = 0; i < 10; i++) result += (i * 5);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[52];
+    double coefficient;
+    uint8_t flags;
+} sQ9s9de5_ctx_t;
+
+void init_ctx(sQ9s9de5_ctx_t *ctx) {
+    ctx->id = 2093;
+    ctx->coefficient = 5.7;
+    ctx->flags = 92;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[57];
+    double coefficient;
+    uint8_t flags;
+} f2Op8zdE_ctx_t;
+
+void init_ctx(f2Op8zdE_ctx_t *ctx) {
+    ctx->id = 9992;
+    ctx->coefficient = 6.8;
+    ctx->flags = 9;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[95];
+    double coefficient;
+    uint8_t flags;
+} TuXiJbuB_ctx_t;
+
+void init_ctx(TuXiJbuB_ctx_t *ctx) {
+    ctx->id = 3126;
+    ctx->coefficient = 5.5;
+    ctx->flags = 90;
+}
+
+int compute_esEeud9(int input) {
+    int result = input * 33;
+    for(int i = 0; i < 10; i++) result += (i * 2);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[80];
+    double coefficient;
+    uint8_t flags;
+} UqHzf8FZ_ctx_t;
+
+void init_ctx(UqHzf8FZ_ctx_t *ctx) {
+    ctx->id = 5717;
+    ctx->coefficient = 5.8;
+    ctx->flags = 190;
+}
+
+int compute_J8WgRxI(int input) {
+    int result = input * 33;
+    for(int i = 0; i < 7; i++) result += (i * 4);
+    return result;
+}
+
+int compute_QTu16Ca(int input) {
+    int result = input * 25;
+    for(int i = 0; i < 16; i++) result += (i * 1);
+    return result;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[82];
+    double coefficient;
+    uint8_t flags;
+} ezBvAEuv_ctx_t;
+
+void init_ctx(ezBvAEuv_ctx_t *ctx) {
+    ctx->id = 9636;
+    ctx->coefficient = 7.4;
+    ctx->flags = 114;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[91];
+    double coefficient;
+    uint8_t flags;
+} wf2DmmNv_ctx_t;
+
+void init_ctx(wf2DmmNv_ctx_t *ctx) {
+    ctx->id = 8329;
+    ctx->coefficient = 6.3;
+    ctx->flags = 41;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[39];
+    double coefficient;
+    uint8_t flags;
+} Jt1a5ZDn_ctx_t;
+
+void init_ctx(Jt1a5ZDn_ctx_t *ctx) {
+    ctx->id = 5273;
+    ctx->coefficient = 5.2;
+    ctx->flags = 15;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[69];
+    double coefficient;
+    uint8_t flags;
+} xqg2HHTy_ctx_t;
+
+void init_ctx(xqg2HHTy_ctx_t *ctx) {
+    ctx->id = 2156;
+    ctx->coefficient = 1.3;
+    ctx->flags = 240;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[74];
+    double coefficient;
+    uint8_t flags;
+} A31ReER4_ctx_t;
+
+void init_ctx(A31ReER4_ctx_t *ctx) {
+    ctx->id = 4042;
+    ctx->coefficient = 9.5;
+    ctx->flags = 140;
+}
+
+typedef struct {
+    uint32_t id;
+    char name[53];
+    double coefficient;
+    uint8_t flags;
+} mj3XxYGZ_ctx_t;
+
+void init_ctx(mj3XxYGZ_ctx_t *ctx) {
+    ctx->id = 4817;
+    ctx->coefficient = 9.5;
+    ctx->flags = 37;
+}
+
